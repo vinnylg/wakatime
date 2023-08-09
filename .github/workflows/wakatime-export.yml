@@ -1,0 +1,18 @@
+name: Exportar dados do WakaTime
+on:
+  schedule:
+    - cron: '0 0 * * *'
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Configurar Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14
+      - name: Instalar dependências
+        run: npm ci
+      - name: Exportar dados do WakaTime
+        run: npx wakatime-to-json --api-key ${{ secrets.WAKATIME_API_KEY }}
