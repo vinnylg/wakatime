@@ -21,11 +21,12 @@ jobs:
           WAKATIME_USER: ${{ secrets.WAKATIME_USER }}
         run: npx wakatime-to-json
       - name: Commit changes
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add wakatime-data.json
           git commit -m "Update wakatime-data.json"
+          git remote set-url origin https://$GH_TOKEN:x-oauth-basic@github.com/vinnylg/wakatime.git
           git push --set-upstream origin HEAD --force
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
