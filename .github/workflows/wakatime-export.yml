@@ -8,9 +8,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
-      - name: Configurar Node.js
-        uses: actions/setup-node@v2
+        uses: actions/checkout@v3.5.3
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v3.7.0
         with:
           node-version: 16
       - name: Instalar dependências
@@ -21,12 +21,9 @@ jobs:
           WAKATIME_USER: ${{ secrets.WAKATIME_USER }}
         run: npx wakatime-to-json
       - name: Commit changes
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add wakatime-data.json
           git commit -m "Update wakatime-data.json"
-          git remote set-url origin https://$GH_TOKEN:x-oauth-basic@github.com/vinnylg/wakatime.git
-          git push --set-upstream origin HEAD --force
+          git push origin HEAD
