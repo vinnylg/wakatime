@@ -20,12 +20,17 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_USER: ${{ secrets.WAKATIME_USER }}
         run: npx wakatime-to-json
-      - name: Commit e push dos dados exportados
+      - name: Verificar mudanças, commit e push dos dados exportados
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add wakatime-data.json
-          git commit -m "Adicionar dados exportados do WakaTime"
-          git push --set-upstream origin ${{ github.ref }}
+          if git status --porcelain | grep -q "wakatime-data.json"; then
+            echo "Houve modificações no arquivo wakatime-data.json"
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add wakatime-data.json
+            git commit -m "Adicionar dados exportados do WakaTime"
+            git push --set-upstream origin ${{ github.ref }}
+          else
+            echo "Não houve modificações no arquivo wakatime-data.json"
+          fi
