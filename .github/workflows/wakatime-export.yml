@@ -16,4 +16,7 @@ jobs:
       - name: Instalar dependências
         run: npm ci
       - name: Exportar dados do WakaTime
-        run: npx wakatime-to-json --api-key ${{ secrets.WAKATIME_API_KEY }}
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_USER: ${{ secrets.WAKATIME_USER }}
+        run: npx wakatime-to-json
