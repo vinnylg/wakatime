@@ -21,8 +21,6 @@ jobs:
           WAKATIME_USER: ${{ secrets.WAKATIME_USER }}
         run: npx wakatime-to-json
       - name: Commit changes
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
