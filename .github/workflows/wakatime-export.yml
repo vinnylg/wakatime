@@ -20,10 +20,12 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_USER: ${{ secrets.WAKATIME_USER }}
         run: npx wakatime-to-json
-      - name: Commit changes
+      - name: Commit e push dos dados exportados
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add wakatime-data.json
-          git commit -m "Update wakatime-data.json"
-          git push origin HEAD
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add exported_data/
+          git commit -m "Adicionar dados exportados do WakaTime"
+          git push --set-upstream origin ${{ github.ref }}
