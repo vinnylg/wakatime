@@ -336,251 +336,6 @@
     }
   },
   "2023-08-09": {
-    "grand_total": {
-      "hours": 4,
-      "minutes": 43,
-      "total_seconds": 17029.965507,
-      "digital": "4:43",
-      "decimal": "4.72",
-      "text": "4 hrs 43 mins"
-    },
-    "range": {
-      "start": "2023-08-09T03:00:00Z",
-      "end": "2023-08-10T02:59:59Z",
-      "date": "2023-08-09",
-      "text": "Wed Aug 9th 2023",
-      "timezone": "America/Sao_Paulo"
-    },
-    "projects": [
-      {
-        "name": "wakatime",
-        "total_seconds": 10956.324579,
-        "color": null,
-        "digital": "3:02:36",
-        "decimal": "3.03",
-        "text": "3 hrs 2 mins",
-        "hours": 3,
-        "minutes": 2,
-        "seconds": 36,
-        "percent": 64.34
-      },
-      {
-        "name": "workspace",
-        "total_seconds": 2236.172558,
-        "color": null,
-        "digital": "0:37:16",
-        "decimal": "0.62",
-        "text": "37 mins",
-        "hours": 0,
-        "minutes": 37,
-        "seconds": 16,
-        "percent": 13.13
-      },
-      {
-        "name": "wakatime-to-json",
-        "total_seconds": 2095.46837,
-        "color": null,
-        "digital": "0:34:55",
-        "decimal": "0.57",
-        "text": "34 mins",
-        "hours": 0,
-        "minutes": 34,
-        "seconds": 55,
-        "percent": 12.3
-      },
-      {
-        "name": "tokens",
-        "total_seconds": 494,
-        "color": null,
-        "digital": "0:08:14",
-        "decimal": "0.13",
-        "text": "8 mins",
-        "hours": 0,
-        "minutes": 8,
-        "seconds": 14,
-        "percent": 2.9
-      },
-      {
-        "name": "community",
-        "total_seconds": 380,
-        "color": null,
-        "digital": "0:06:20",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 20,
-        "percent": 2.23
-      },
-      {
-        "name": "oauth",
-        "total_seconds": 273.68701,
-        "color": null,
-        "digital": "0:04:33",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 33,
-        "percent": 1.61
-      },
-      {
-        "name": "actions",
-        "total_seconds": 256,
-        "color": null,
-        "digital": "0:04:16",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 16,
-        "percent": 1.5
-      },
-      {
-        "name": "Unknown Project",
-        "total_seconds": 102.31299,
-        "color": null,
-        "digital": "0:01:42",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 42,
-        "percent": 0.6
-      },
-      {
-        "name": "github-push-action",
-        "total_seconds": 95,
-        "color": null,
-        "digital": "0:01:35",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 35,
-        "percent": 0.56
-      },
-      {
-        "name": "personal-access-tokens",
-        "total_seconds": 45,
-        "color": null,
-        "digital": "0:00:45",
-        "decimal": "0.00",
-        "text": "45 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 45,
-        "percent": 0.26
-      },
-      {
-        "name": "keys",
-        "total_seconds": 31,
-        "color": null,
-        "digital": "0:00:31",
-        "decimal": "0.00",
-        "text": "31 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 31,
-        "percent": 0.18
-      },
-      {
-        "name": "apps",
-        "total_seconds": 15,
-        "color": null,
-        "digital": "0:00:15",
-        "decimal": "0.00",
-        "text": "15 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 15,
-        "percent": 0.09
-      },
-      {
-        "name": "ssh",
-        "total_seconds": 11,
-        "color": null,
-        "digital": "0:00:11",
-        "decimal": "0.00",
-        "text": "11 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 11,
-        "percent": 0.06
-      },
-      {
-        "name": "wakatime?search=1",
-        "total_seconds": 11,
-        "color": null,
-        "digital": "0:00:11",
-        "decimal": "0.00",
-        "text": "11 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 11,
-        "percent": 0.06
-      },
-      {
-        "name": "profile",
-        "total_seconds": 10,
-        "color": null,
-        "digital": "0:00:10",
-        "decimal": "0.00",
-        "text": "10 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 10,
-        "percent": 0.06
-      },
-      {
-        "name": "tokens?type=beta",
-        "total_seconds": 9,
-        "color": null,
-        "digital": "0:00:09",
-        "decimal": "0.00",
-        "text": "9 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 9,
-        "percent": 0.05
-      },
-      {
-        "name": "signup?editor=copilot-chat_0.6.0",
-        "total_seconds": 6,
-        "color": null,
-        "digital": "0:00:06",
-        "decimal": "0.00",
-        "text": "6 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 6,
-        "percent": 0.04
-      },
-      {
-        "name": "cbosa",
-        "total_seconds": 3,
-        "color": null,
-        "digital": "0:00:03",
-        "decimal": "0.00",
-        "text": "3 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 3,
-        "percent": 0.02
-      },
-      {
-        "name": "node-red-contrib-homekit-docker",
-        "total_seconds": 0,
-        "color": null,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -636,6 +391,86 @@
         "minutes": 0,
         "seconds": 52,
         "percent": 0.31
+      }
+    ],
+    "grand_total": {
+      "hours": 4,
+      "minutes": 43,
+      "total_seconds": 17029.965507,
+      "digital": "4:43",
+      "decimal": "4.72",
+      "text": "4 hrs 43 mins"
+    },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 11886.087465,
+        "digital": "3:18:06",
+        "decimal": "3.30",
+        "text": "3 hrs 18 mins",
+        "hours": 3,
+        "minutes": 18,
+        "seconds": 6,
+        "percent": 69.8
+      },
+      {
+        "name": "Edge",
+        "total_seconds": 3098.037066,
+        "digital": "0:51:38",
+        "decimal": "0.85",
+        "text": "51 mins",
+        "hours": 0,
+        "minutes": 51,
+        "seconds": 38,
+        "percent": 18.19
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 2045.840976,
+        "digital": "0:34:05",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 5,
+        "percent": 12.01
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 17029.965507,
+        "digital": "4:43:49",
+        "decimal": "4.72",
+        "text": "4 hrs 43 mins",
+        "hours": 4,
+        "minutes": 43,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 14984.124531,
+        "digital": "4:09:44",
+        "decimal": "4.15",
+        "text": "4 hrs 9 mins",
+        "hours": 4,
+        "minutes": 9,
+        "seconds": 44,
+        "percent": 87.99
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 2045.840976,
+        "digital": "0:34:05",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 5,
+        "percent": 12.01
       }
     ],
     "dependencies": [
@@ -1493,76 +1328,673 @@
         "percent": 4.74
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "Chrome",
-        "total_seconds": 11886.087465,
-        "digital": "3:18:06",
-        "decimal": "3.30",
-        "text": "3 hrs 18 mins",
+        "name": "wakatime",
+        "total_seconds": 10956.324579,
+        "color": null,
+        "digital": "3:02:36",
+        "decimal": "3.03",
+        "text": "3 hrs 2 mins",
         "hours": 3,
-        "minutes": 18,
-        "seconds": 6,
-        "percent": 69.8
+        "minutes": 2,
+        "seconds": 36,
+        "percent": 64.34
       },
       {
-        "name": "Edge",
-        "total_seconds": 3098.037066,
-        "digital": "0:51:38",
-        "decimal": "0.85",
-        "text": "51 mins",
+        "name": "workspace",
+        "total_seconds": 2236.172558,
+        "color": null,
+        "digital": "0:37:16",
+        "decimal": "0.62",
+        "text": "37 mins",
         "hours": 0,
-        "minutes": 51,
-        "seconds": 38,
-        "percent": 18.19
+        "minutes": 37,
+        "seconds": 16,
+        "percent": 13.13
       },
       {
-        "name": "VS Code",
-        "total_seconds": 2045.840976,
-        "digital": "0:34:05",
+        "name": "wakatime-to-json",
+        "total_seconds": 2095.46837,
+        "color": null,
+        "digital": "0:34:55",
         "decimal": "0.57",
         "text": "34 mins",
         "hours": 0,
         "minutes": 34,
-        "seconds": 5,
-        "percent": 12.01
+        "seconds": 55,
+        "percent": 12.3
+      },
+      {
+        "name": "tokens",
+        "total_seconds": 494,
+        "color": null,
+        "digital": "0:08:14",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 14,
+        "percent": 2.9
+      },
+      {
+        "name": "community",
+        "total_seconds": 380,
+        "color": null,
+        "digital": "0:06:20",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 20,
+        "percent": 2.23
+      },
+      {
+        "name": "oauth",
+        "total_seconds": 273.68701,
+        "color": null,
+        "digital": "0:04:33",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 33,
+        "percent": 1.61
+      },
+      {
+        "name": "actions",
+        "total_seconds": 256,
+        "color": null,
+        "digital": "0:04:16",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 16,
+        "percent": 1.5
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 102.31299,
+        "color": null,
+        "digital": "0:01:42",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 42,
+        "percent": 0.6
+      },
+      {
+        "name": "github-push-action",
+        "total_seconds": 95,
+        "color": null,
+        "digital": "0:01:35",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 35,
+        "percent": 0.56
+      },
+      {
+        "name": "personal-access-tokens",
+        "total_seconds": 45,
+        "color": null,
+        "digital": "0:00:45",
+        "decimal": "0.00",
+        "text": "45 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 45,
+        "percent": 0.26
+      },
+      {
+        "name": "keys",
+        "total_seconds": 31,
+        "color": null,
+        "digital": "0:00:31",
+        "decimal": "0.00",
+        "text": "31 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 31,
+        "percent": 0.18
+      },
+      {
+        "name": "apps",
+        "total_seconds": 15,
+        "color": null,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.09
+      },
+      {
+        "name": "ssh",
+        "total_seconds": 11,
+        "color": null,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.06
+      },
+      {
+        "name": "wakatime?search=1",
+        "total_seconds": 11,
+        "color": null,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.06
+      },
+      {
+        "name": "profile",
+        "total_seconds": 10,
+        "color": null,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.06
+      },
+      {
+        "name": "tokens?type=beta",
+        "total_seconds": 9,
+        "color": null,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.05
+      },
+      {
+        "name": "signup?editor=copilot-chat_0.6.0",
+        "total_seconds": 6,
+        "color": null,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.04
+      },
+      {
+        "name": "cbosa",
+        "total_seconds": 3,
+        "color": null,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.02
+      },
+      {
+        "name": "node-red-contrib-homekit-docker",
+        "total_seconds": 0,
+        "color": null,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "range": {
+      "start": "2023-08-09T03:00:00Z",
+      "end": "2023-08-10T02:59:59Z",
+      "date": "2023-08-09",
+      "text": "Wed Aug 9th 2023",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2023-08-10": {
+    "grand_total": {
+      "hours": 1,
+      "minutes": 39,
+      "total_seconds": 5961.917164,
+      "digital": "1:39",
+      "decimal": "1.65",
+      "text": "1 hr 39 mins"
+    },
+    "range": {
+      "start": "2023-08-10T03:00:00Z",
+      "end": "2023-08-11T02:59:59Z",
+      "date": "2023-08-10",
+      "text": "Thu Aug 10th 2023",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "workspace",
+        "total_seconds": 5961.917164,
+        "color": null,
+        "digital": "1:39:21",
+        "decimal": "1.65",
+        "text": "1 hr 39 mins",
+        "hours": 1,
+        "minutes": 39,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 5751.948278,
+        "digital": "1:35:51",
+        "decimal": "1.58",
+        "text": "1 hr 35 mins",
+        "hours": 1,
+        "minutes": 35,
+        "seconds": 51,
+        "percent": 96.48
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 98.668755,
+        "digital": "0:01:38",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 38,
+        "percent": 1.65
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 80.521823,
+        "digital": "0:01:20",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 20,
+        "percent": 1.35
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 30.778308,
+        "digital": "0:00:30",
+        "decimal": "0.00",
+        "text": "30 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 30,
+        "percent": 0.52
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"https://unpkg.com/htmx.org@1.9.3\"",
+        "total_seconds": 28.546782,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 5.08
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/ol@v7.4.0/dist/ol.js\"",
+        "total_seconds": 26.696627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 4.75
+      },
+      {
+        "name": "\"https://code.highcharts.com/highcharts.js\"",
+        "total_seconds": 26.696627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 4.75
+      },
+      {
+        "name": "\"https://code.highcharts.com/modules/export-data.js\"",
+        "total_seconds": 26.696627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 4.75
+      },
+      {
+        "name": "\"https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js\"",
+        "total_seconds": 26.696627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 4.75
+      },
+      {
+        "name": "\"% static 'htmx.min.js' %\"",
+        "total_seconds": 26.696627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 4.75
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/tableexport.jquery.plugin@1.10.21/libs/jsPDF/jspdf.min.js\"",
+        "total_seconds": 26.696627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 4.75
+      },
+      {
+        "name": "\"https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\"",
+        "total_seconds": 26.696627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 4.75
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/tableexport.jquery.plugin@1.10.21/tableExport.min.js\"",
+        "total_seconds": 26.696627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 4.75
+      },
+      {
+        "name": "\"https://code.highcharts.com/modules/data.js\"",
+        "total_seconds": 26.696627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 4.75
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js\"",
+        "total_seconds": 26.696627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 4.75
+      },
+      {
+        "name": "\"https://unpkg.com/bootstrap-table@1.21.3/dist/bootstrap-table.min.js\"",
+        "total_seconds": 26.696627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 4.75
+      },
+      {
+        "name": "\"https://code.highcharts.com/modules/exporting.js\"",
+        "total_seconds": 26.696627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 4.75
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/tableexport.jquery.plugin@1.10.21/libs/jsPDF-AutoTable/jspdf.plugin.autotable.js\"",
+        "total_seconds": 26.696627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 4.75
+      },
+      {
+        "name": "\"https://unpkg.com/bootstrap-table@1.21.3/dist/extensions/export/bootstrap-table-export.min.js\"",
+        "total_seconds": 26.696627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 4.75
+      },
+      {
+        "name": "\"https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js\"",
+        "total_seconds": 26.696627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 4.75
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js\"",
+        "total_seconds": 26.696627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 4.75
+      },
+      {
+        "name": "\"https://cdn.datatables.net/1.13.4/js/jquery.dataTables.js\"",
+        "total_seconds": 26.696627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 4.75
+      },
+      {
+        "name": "\"https://unpkg.com/bootstrap-table@1.21.3/dist/extensions/copy-rows/bootstrap-table-copy-rows.min.js\"",
+        "total_seconds": 26.696627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 4.75
+      },
+      {
+        "name": "\"https://code.highcharts.com/modules/accessibility.js\"",
+        "total_seconds": 26.696627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 4.75
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js\"",
+        "total_seconds": 26.696627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 4.75
+      }
+    ],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 3124,
+        "machine_name_id": "fd3bcc33-fb5f-40ed-a089-9e6d9f78b900",
+        "digital": "0:52:04",
+        "decimal": "0.87",
+        "text": "52 mins",
+        "hours": 0,
+        "minutes": 52,
+        "seconds": 4,
+        "percent": 52.4
+      },
+      {
+        "name": "Chrome ( Profissional ) at  PopOS",
+        "total_seconds": 1959.961272,
+        "machine_name_id": "a55b2652-48c4-48b1-a33a-d5bb2b56f22a",
+        "digital": "0:32:39",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 39,
+        "percent": 32.87
+      },
+      {
+        "name": "8ded0ddd8765",
+        "total_seconds": 811.955892,
+        "machine_name_id": "bff1d115-978e-4197-b570-1113a82e6105",
+        "digital": "0:13:31",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 31,
+        "percent": 13.62
+      },
+      {
+        "name": "Edge (PopOS)",
+        "total_seconds": 66,
+        "machine_name_id": "b83fc8f9-63ea-4be8-9c20-f479f047b602",
+        "digital": "0:01:06",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 6,
+        "percent": 1.11
+      }
+    ],
+    "editors": [
+      {
+        "name": "Edge",
+        "total_seconds": 3190,
+        "digital": "0:53:10",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 10,
+        "percent": 53.51
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 1959.961272,
+        "digital": "0:32:39",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 39,
+        "percent": 32.87
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 811.955892,
+        "digital": "0:13:31",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 31,
+        "percent": 13.62
       }
     ],
     "operating_systems": [
       {
         "name": "Linux",
-        "total_seconds": 17029.965507,
-        "digital": "4:43:49",
-        "decimal": "4.72",
-        "text": "4 hrs 43 mins",
-        "hours": 4,
-        "minutes": 43,
-        "seconds": 49,
+        "total_seconds": 5961.917164,
+        "digital": "1:39:21",
+        "decimal": "1.65",
+        "text": "1 hr 39 mins",
+        "hours": 1,
+        "minutes": 39,
+        "seconds": 21,
         "percent": 100
       }
     ],
     "categories": [
       {
         "name": "Browsing",
-        "total_seconds": 14984.124531,
-        "digital": "4:09:44",
-        "decimal": "4.15",
-        "text": "4 hrs 9 mins",
-        "hours": 4,
-        "minutes": 9,
-        "seconds": 44,
-        "percent": 87.99
+        "total_seconds": 5149.961272,
+        "digital": "1:25:49",
+        "decimal": "1.42",
+        "text": "1 hr 25 mins",
+        "hours": 1,
+        "minutes": 25,
+        "seconds": 49,
+        "percent": 86.38
       },
       {
         "name": "Coding",
-        "total_seconds": 2045.840976,
-        "digital": "0:34:05",
-        "decimal": "0.57",
-        "text": "34 mins",
+        "total_seconds": 811.955892,
+        "digital": "0:13:31",
+        "decimal": "0.22",
+        "text": "13 mins",
         "hours": 0,
-        "minutes": 34,
-        "seconds": 5,
-        "percent": 12.01
+        "minutes": 13,
+        "seconds": 31,
+        "percent": 13.62
       }
     ]
   }
