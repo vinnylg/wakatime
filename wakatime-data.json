@@ -1999,71 +1999,6 @@
     }
   },
   "2023-08-11": {
-    "grand_total": {
-      "hours": 4,
-      "minutes": 13,
-      "total_seconds": 15202.975905,
-      "digital": "4:13",
-      "decimal": "4.22",
-      "text": "4 hrs 13 mins"
-    },
-    "range": {
-      "start": "2023-08-11T03:00:00Z",
-      "end": "2023-08-12T02:59:59Z",
-      "date": "2023-08-11",
-      "text": "Fri Aug 11th 2023",
-      "timezone": "America/Sao_Paulo"
-    },
-    "projects": [
-      {
-        "name": "workspace",
-        "total_seconds": 14818.022622,
-        "color": null,
-        "digital": "4:06:58",
-        "decimal": "4.10",
-        "text": "4 hrs 6 mins",
-        "hours": 4,
-        "minutes": 6,
-        "seconds": 58,
-        "percent": 97.47
-      },
-      {
-        "name": "markdown-viewer",
-        "total_seconds": 269.483068,
-        "color": null,
-        "digital": "0:04:29",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 29,
-        "percent": 1.77
-      },
-      {
-        "name": "paranaclima",
-        "total_seconds": 98.470215,
-        "color": null,
-        "digital": "0:01:38",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 38,
-        "percent": 0.65
-      },
-      {
-        "name": "wakatime",
-        "total_seconds": 17,
-        "color": null,
-        "digital": "0:00:17",
-        "decimal": "0.00",
-        "text": "17 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 17,
-        "percent": 0.11
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -2141,6 +2076,75 @@
         "minutes": 0,
         "seconds": 24,
         "percent": 0.16
+      }
+    ],
+    "grand_total": {
+      "hours": 4,
+      "minutes": 13,
+      "total_seconds": 15202.975905,
+      "digital": "4:13",
+      "decimal": "4.22",
+      "text": "4 hrs 13 mins"
+    },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 10092.12509,
+        "digital": "2:48:12",
+        "decimal": "2.80",
+        "text": "2 hrs 48 mins",
+        "hours": 2,
+        "minutes": 48,
+        "seconds": 12,
+        "percent": 66.38
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 5110.850815,
+        "digital": "1:25:10",
+        "decimal": "1.42",
+        "text": "1 hr 25 mins",
+        "hours": 1,
+        "minutes": 25,
+        "seconds": 10,
+        "percent": 33.62
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 15202.975905,
+        "digital": "4:13:22",
+        "decimal": "4.22",
+        "text": "4 hrs 13 mins",
+        "hours": 4,
+        "minutes": 13,
+        "seconds": 22,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 10092.12509,
+        "digital": "2:48:12",
+        "decimal": "2.80",
+        "text": "2 hrs 48 mins",
+        "hours": 2,
+        "minutes": 48,
+        "seconds": 12,
+        "percent": 66.38
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 5110.850815,
+        "digital": "1:25:10",
+        "decimal": "1.42",
+        "text": "1 hr 25 mins",
+        "hours": 1,
+        "minutes": 25,
+        "seconds": 10,
+        "percent": 33.62
       }
     ],
     "dependencies": [
@@ -2535,65 +2539,159 @@
         "percent": 0.65
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "Chrome",
-        "total_seconds": 10092.12509,
-        "digital": "2:48:12",
-        "decimal": "2.80",
-        "text": "2 hrs 48 mins",
-        "hours": 2,
-        "minutes": 48,
-        "seconds": 12,
-        "percent": 66.38
+        "name": "workspace",
+        "total_seconds": 14818.022622,
+        "color": null,
+        "digital": "4:06:58",
+        "decimal": "4.10",
+        "text": "4 hrs 6 mins",
+        "hours": 4,
+        "minutes": 6,
+        "seconds": 58,
+        "percent": 97.47
       },
       {
-        "name": "VS Code",
-        "total_seconds": 5110.850815,
-        "digital": "1:25:10",
-        "decimal": "1.42",
-        "text": "1 hr 25 mins",
-        "hours": 1,
-        "minutes": 25,
-        "seconds": 10,
-        "percent": 33.62
+        "name": "markdown-viewer",
+        "total_seconds": 269.483068,
+        "color": null,
+        "digital": "0:04:29",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 29,
+        "percent": 1.77
+      },
+      {
+        "name": "paranaclima",
+        "total_seconds": 98.470215,
+        "color": null,
+        "digital": "0:01:38",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 38,
+        "percent": 0.65
+      },
+      {
+        "name": "wakatime",
+        "total_seconds": 17,
+        "color": null,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 0.11
+      }
+    ],
+    "range": {
+      "start": "2023-08-11T03:00:00Z",
+      "end": "2023-08-12T02:59:59Z",
+      "date": "2023-08-11",
+      "text": "Fri Aug 11th 2023",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2023-08-12": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 14,
+      "total_seconds": 896,
+      "digital": "0:14",
+      "decimal": "0.23",
+      "text": "14 mins"
+    },
+    "range": {
+      "start": "2023-08-12T03:00:00Z",
+      "end": "2023-08-13T02:59:59Z",
+      "date": "2023-08-12",
+      "text": "Sat Aug 12th 2023",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "workspace",
+        "total_seconds": 896,
+        "color": null,
+        "digital": "0:14:56",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 896,
+        "digital": "0:14:56",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 896,
+        "machine_name_id": "94994699-51fe-45df-911d-b3af7fd03d8a",
+        "digital": "0:14:56",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Edge",
+        "total_seconds": 896,
+        "digital": "0:14:56",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 56,
+        "percent": 100
       }
     ],
     "operating_systems": [
       {
         "name": "Linux",
-        "total_seconds": 15202.975905,
-        "digital": "4:13:22",
-        "decimal": "4.22",
-        "text": "4 hrs 13 mins",
-        "hours": 4,
-        "minutes": 13,
-        "seconds": 22,
+        "total_seconds": 896,
+        "digital": "0:14:56",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 56,
         "percent": 100
       }
     ],
     "categories": [
       {
         "name": "Browsing",
-        "total_seconds": 10092.12509,
-        "digital": "2:48:12",
-        "decimal": "2.80",
-        "text": "2 hrs 48 mins",
-        "hours": 2,
-        "minutes": 48,
-        "seconds": 12,
-        "percent": 66.38
-      },
-      {
-        "name": "Coding",
-        "total_seconds": 5110.850815,
-        "digital": "1:25:10",
-        "decimal": "1.42",
-        "text": "1 hr 25 mins",
-        "hours": 1,
-        "minutes": 25,
-        "seconds": 10,
-        "percent": 33.62
+        "total_seconds": 896,
+        "digital": "0:14:56",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 56,
+        "percent": 100
       }
     ]
   }
