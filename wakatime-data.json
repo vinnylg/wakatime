@@ -2598,35 +2598,6 @@
     }
   },
   "2023-08-12": {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 14,
-      "total_seconds": 896,
-      "digital": "0:14",
-      "decimal": "0.23",
-      "text": "14 mins"
-    },
-    "range": {
-      "start": "2023-08-12T03:00:00Z",
-      "end": "2023-08-13T02:59:59Z",
-      "date": "2023-08-12",
-      "text": "Sat Aug 12th 2023",
-      "timezone": "America/Sao_Paulo"
-    },
-    "projects": [
-      {
-        "name": "workspace",
-        "total_seconds": 896,
-        "color": null,
-        "digital": "0:14:56",
-        "decimal": "0.23",
-        "text": "14 mins",
-        "hours": 0,
-        "minutes": 14,
-        "seconds": 56,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -2640,21 +2611,14 @@
         "percent": 100
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "Edge at PopOS",
-        "total_seconds": 896,
-        "machine_name_id": "94994699-51fe-45df-911d-b3af7fd03d8a",
-        "digital": "0:14:56",
-        "decimal": "0.23",
-        "text": "14 mins",
-        "hours": 0,
-        "minutes": 14,
-        "seconds": 56,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 14,
+      "total_seconds": 896,
+      "digital": "0:14",
+      "decimal": "0.23",
+      "text": "14 mins"
+    },
     "editors": [
       {
         "name": "Edge",
@@ -2693,6 +2657,66 @@
         "seconds": 56,
         "percent": 100
       }
-    ]
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 896,
+        "machine_name_id": "94994699-51fe-45df-911d-b3af7fd03d8a",
+        "digital": "0:14:56",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "workspace",
+        "total_seconds": 896,
+        "color": null,
+        "digital": "0:14:56",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-08-12T03:00:00Z",
+      "end": "2023-08-13T02:59:59Z",
+      "date": "2023-08-12",
+      "text": "Sat Aug 12th 2023",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2023-08-13": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
+    "range": {
+      "start": "2023-08-13T03:00:00Z",
+      "end": "2023-08-14T02:59:59Z",
+      "date": "2023-08-13",
+      "text": "Sun Aug 13th 2023",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [],
+    "languages": [],
+    "dependencies": [],
+    "machines": [],
+    "editors": [],
+    "operating_systems": [],
+    "categories": []
   }
 }
