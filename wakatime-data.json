@@ -2696,6 +2696,7 @@
     }
   },
   "2023-08-13": {
+    "languages": [],
     "grand_total": {
       "hours": 0,
       "minutes": 0,
@@ -2704,19 +2705,139 @@
       "decimal": "0.00",
       "text": "0 secs"
     },
+    "editors": [],
+    "operating_systems": [],
+    "categories": [],
+    "dependencies": [],
+    "machines": [],
+    "projects": [],
     "range": {
       "start": "2023-08-13T03:00:00Z",
       "end": "2023-08-14T02:59:59Z",
       "date": "2023-08-13",
       "text": "Sun Aug 13th 2023",
       "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2023-08-14": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 56,
+      "total_seconds": 3363,
+      "digital": "0:56",
+      "decimal": "0.93",
+      "text": "56 mins"
     },
-    "projects": [],
-    "languages": [],
+    "range": {
+      "start": "2023-08-14T03:00:00Z",
+      "end": "2023-08-15T02:59:59Z",
+      "date": "2023-08-14",
+      "text": "Mon Aug 14th 2023",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "workspace",
+        "total_seconds": 3363,
+        "color": null,
+        "digital": "0:56:03",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 3363,
+        "digital": "0:56:03",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
     "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    "machines": [
+      {
+        "name": "Chrome ( Pessoal ) at PopOS",
+        "total_seconds": 3354,
+        "machine_name_id": "f4dba005-b85d-436f-9e98-d413327adc4b",
+        "digital": "0:55:54",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 54,
+        "percent": 99.73
+      },
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 9,
+        "machine_name_id": "fbfa234e-85a8-4696-bb57-4e3cc7b8af63",
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.27
+      }
+    ],
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 3354,
+        "digital": "0:55:54",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 54,
+        "percent": 99.73
+      },
+      {
+        "name": "Edge",
+        "total_seconds": 9,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.27
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 3363,
+        "digital": "0:56:03",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 3363,
+        "digital": "0:56:03",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 3,
+        "percent": 100
+      }
+    ]
   }
 }
