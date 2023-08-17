@@ -2841,35 +2841,6 @@
     }
   },
   "2023-08-15": {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 19,
-      "total_seconds": 4765,
-      "digital": "1:19",
-      "decimal": "1.32",
-      "text": "1 hr 19 mins"
-    },
-    "range": {
-      "start": "2023-08-15T03:00:00Z",
-      "end": "2023-08-16T02:59:59Z",
-      "date": "2023-08-15",
-      "text": "Tue Aug 15th 2023",
-      "timezone": "America/Sao_Paulo"
-    },
-    "projects": [
-      {
-        "name": "workspace",
-        "total_seconds": 4765,
-        "color": null,
-        "digital": "1:19:25",
-        "decimal": "1.32",
-        "text": "1 hr 19 mins",
-        "hours": 1,
-        "minutes": 19,
-        "seconds": 25,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -2883,21 +2854,14 @@
         "percent": 100
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "Chrome ( Pessoal ) at PopOS",
-        "total_seconds": 4765,
-        "machine_name_id": "9d9766a4-db37-4a85-b399-3b247a327669",
-        "digital": "1:19:25",
-        "decimal": "1.32",
-        "text": "1 hr 19 mins",
-        "hours": 1,
-        "minutes": 19,
-        "seconds": 25,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 19,
+      "total_seconds": 4765,
+      "digital": "1:19",
+      "decimal": "1.32",
+      "text": "1 hr 19 mins"
+    },
     "editors": [
       {
         "name": "Chrome",
@@ -2945,6 +2909,140 @@
         "hours": 1,
         "minutes": 19,
         "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Chrome ( Pessoal ) at PopOS",
+        "total_seconds": 4765,
+        "machine_name_id": "9d9766a4-db37-4a85-b399-3b247a327669",
+        "digital": "1:19:25",
+        "decimal": "1.32",
+        "text": "1 hr 19 mins",
+        "hours": 1,
+        "minutes": 19,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "workspace",
+        "total_seconds": 4765,
+        "color": null,
+        "digital": "1:19:25",
+        "decimal": "1.32",
+        "text": "1 hr 19 mins",
+        "hours": 1,
+        "minutes": 19,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-08-15T03:00:00Z",
+      "end": "2023-08-16T02:59:59Z",
+      "date": "2023-08-15",
+      "text": "Tue Aug 15th 2023",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2023-08-16": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 35,
+      "total_seconds": 2116,
+      "digital": "0:35",
+      "decimal": "0.58",
+      "text": "35 mins"
+    },
+    "range": {
+      "start": "2023-08-16T03:00:00Z",
+      "end": "2023-08-17T02:59:59Z",
+      "date": "2023-08-16",
+      "text": "Wed Aug 16th 2023",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "workspace",
+        "total_seconds": 2116,
+        "color": null,
+        "digital": "0:35:16",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 2116,
+        "digital": "0:35:16",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Chrome ( Pessoal ) at PopOS",
+        "total_seconds": 2116,
+        "machine_name_id": "9e17f366-d73b-4543-90a2-b8b6b3e2204a",
+        "digital": "0:35:16",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 2116,
+        "digital": "0:35:16",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2116,
+        "digital": "0:35:16",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 2116,
+        "digital": "0:35:16",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 16,
         "percent": 100
       }
     ]
