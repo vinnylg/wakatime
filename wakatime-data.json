@@ -3814,35 +3814,6 @@
     }
   },
   "2023-08-21": {
-    "grand_total": {
-      "hours": 4,
-      "minutes": 4,
-      "total_seconds": 14694,
-      "digital": "4:04",
-      "decimal": "4.07",
-      "text": "4 hrs 4 mins"
-    },
-    "range": {
-      "start": "2023-08-21T03:00:00Z",
-      "end": "2023-08-22T02:59:59Z",
-      "date": "2023-08-21",
-      "text": "Mon Aug 21st 2023",
-      "timezone": "America/Sao_Paulo"
-    },
-    "projects": [
-      {
-        "name": "XOutput",
-        "total_seconds": 14694,
-        "color": null,
-        "digital": "4:04:54",
-        "decimal": "4.07",
-        "text": "4 hrs 4 mins",
-        "hours": 4,
-        "minutes": 4,
-        "seconds": 54,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -3856,33 +3827,14 @@
         "percent": 100
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "Chrome ( Pessoal ) at PopOS",
-        "total_seconds": 11387,
-        "machine_name_id": "57513438-4e19-47f8-a45c-e80df9a17348",
-        "digital": "3:09:47",
-        "decimal": "3.15",
-        "text": "3 hrs 9 mins",
-        "hours": 3,
-        "minutes": 9,
-        "seconds": 47,
-        "percent": 77.49
-      },
-      {
-        "name": "Edge at PopOS",
-        "total_seconds": 3307,
-        "machine_name_id": "260e1b29-d594-4c30-a73f-67406d87633c",
-        "digital": "0:55:07",
-        "decimal": "0.92",
-        "text": "55 mins",
-        "hours": 0,
-        "minutes": 55,
-        "seconds": 7,
-        "percent": 22.51
-      }
-    ],
+    "grand_total": {
+      "hours": 4,
+      "minutes": 4,
+      "total_seconds": 14694,
+      "digital": "4:04",
+      "decimal": "4.07",
+      "text": "4 hrs 4 mins"
+    },
     "editors": [
       {
         "name": "Chrome",
@@ -3942,6 +3894,573 @@
         "minutes": 4,
         "seconds": 54,
         "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Chrome ( Pessoal ) at PopOS",
+        "total_seconds": 11387,
+        "machine_name_id": "57513438-4e19-47f8-a45c-e80df9a17348",
+        "digital": "3:09:47",
+        "decimal": "3.15",
+        "text": "3 hrs 9 mins",
+        "hours": 3,
+        "minutes": 9,
+        "seconds": 47,
+        "percent": 77.49
+      },
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 3307,
+        "machine_name_id": "260e1b29-d594-4c30-a73f-67406d87633c",
+        "digital": "0:55:07",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 7,
+        "percent": 22.51
+      }
+    ],
+    "projects": [
+      {
+        "name": "XOutput",
+        "total_seconds": 14694,
+        "digital": "4:04:54",
+        "decimal": "4.07",
+        "text": "4 hrs 4 mins",
+        "hours": 4,
+        "minutes": 4,
+        "seconds": 54,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-08-21T03:00:00Z",
+      "end": "2023-08-22T02:59:59Z",
+      "date": "2023-08-21",
+      "text": "Mon Aug 21st 2023",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2023-08-22": {
+    "grand_total": {
+      "hours": 3,
+      "minutes": 9,
+      "total_seconds": 11340,
+      "digital": "3:09",
+      "decimal": "3.15",
+      "text": "3 hrs 9 mins"
+    },
+    "range": {
+      "start": "2023-08-22T03:00:00Z",
+      "end": "2023-08-23T02:59:59Z",
+      "date": "2023-08-22",
+      "text": "Tue Aug 22nd 2023",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "workspace",
+        "total_seconds": 11030.588123,
+        "color": null,
+        "digital": "3:03:50",
+        "decimal": "3.05",
+        "text": "3 hrs 3 mins",
+        "hours": 3,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 97.27
+      },
+      {
+        "name": "XOutput",
+        "total_seconds": 309.411877,
+        "color": null,
+        "digital": "0:05:09",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 9,
+        "percent": 2.73
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 11081.302647,
+        "digital": "3:04:41",
+        "decimal": "3.07",
+        "text": "3 hrs 4 mins",
+        "hours": 3,
+        "minutes": 4,
+        "seconds": 41,
+        "percent": 97.72
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 143.313392,
+        "digital": "0:02:23",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 23,
+        "percent": 1.26
+      },
+      {
+        "name": "Python",
+        "total_seconds": 60.795838,
+        "digital": "0:01:00",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 0,
+        "percent": 0.54
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 54.588123,
+        "digital": "0:00:54",
+        "decimal": "0.00",
+        "text": "54 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 54,
+        "percent": 0.48
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "django",
+        "total_seconds": 60.795838,
+        "digital": "0:01:00",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 0,
+        "percent": 4.88
+      },
+      {
+        "name": "\"https://code.highcharts.com/highcharts.js\"",
+        "total_seconds": 46.949731,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 3.77
+      },
+      {
+        "name": "\"https://code.highcharts.com/modules/export-data.js\"",
+        "total_seconds": 46.949731,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 3.77
+      },
+      {
+        "name": "\"https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js\"",
+        "total_seconds": 46.949731,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 3.77
+      },
+      {
+        "name": "\"% static 'htmx.min.js' %\"",
+        "total_seconds": 46.949731,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 3.77
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/tableexport.jquery.plugin@1.10.21/libs/jsPDF/jspdf.min.js\"",
+        "total_seconds": 46.949731,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 3.77
+      },
+      {
+        "name": "\"https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\"",
+        "total_seconds": 46.949731,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 3.77
+      },
+      {
+        "name": "\"https://code.jquery.com/jquery-3.2.1.slim.min.js\"",
+        "total_seconds": 46.949731,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 3.77
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js\"",
+        "total_seconds": 46.949731,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 3.77
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/tableexport.jquery.plugin@1.10.21/tableExport.min.js\"",
+        "total_seconds": 46.949731,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 3.77
+      },
+      {
+        "name": "\"https://code.highcharts.com/modules/data.js\"",
+        "total_seconds": 46.949731,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 3.77
+      },
+      {
+        "name": "\"https://unpkg.com/bootstrap-table@1.21.3/dist/bootstrap-table.min.js\"",
+        "total_seconds": 46.949731,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 3.77
+      },
+      {
+        "name": "\"https://html2canvas.hertzen.com/dist/html2canvas.min.js\"",
+        "total_seconds": 46.949731,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 3.77
+      },
+      {
+        "name": "\"https://code.highcharts.com/modules/exporting.js\"",
+        "total_seconds": 46.949731,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 3.77
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js\"",
+        "total_seconds": 46.949731,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 3.77
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/tableexport.jquery.plugin@1.10.21/libs/jsPDF-AutoTable/jspdf.plugin.autotable.js\"",
+        "total_seconds": 46.949731,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 3.77
+      },
+      {
+        "name": "\"https://unpkg.com/bootstrap-table@1.21.3/dist/extensions/export/bootstrap-table-export.min.js\"",
+        "total_seconds": 46.949731,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 3.77
+      },
+      {
+        "name": "\"https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js\"",
+        "total_seconds": 46.949731,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 3.77
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js\"",
+        "total_seconds": 46.949731,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 3.77
+      },
+      {
+        "name": "\"https://cdn.datatables.net/1.13.4/js/jquery.dataTables.js\"",
+        "total_seconds": 46.949731,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 3.77
+      },
+      {
+        "name": "\"https://unpkg.com/bootstrap-table@1.21.3/dist/extensions/copy-rows/bootstrap-table-copy-rows.min.js\"",
+        "total_seconds": 46.949731,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 3.77
+      },
+      {
+        "name": "\"https://code.highcharts.com/modules/accessibility.js\"",
+        "total_seconds": 46.949731,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 3.77
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/ol@v7.4.0/dist/ol.js\"",
+        "total_seconds": 46.949731,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 3.77
+      },
+      {
+        "name": "geopandas",
+        "total_seconds": 30.55375,
+        "digital": "0:00:30",
+        "decimal": "0.00",
+        "text": "30 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 30,
+        "percent": 2.45
+      },
+      {
+        "name": "json",
+        "total_seconds": 30.55375,
+        "digital": "0:00:30",
+        "decimal": "0.00",
+        "text": "30 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 30,
+        "percent": 2.45
+      },
+      {
+        "name": "jenkspy",
+        "total_seconds": 30.55375,
+        "digital": "0:00:30",
+        "decimal": "0.00",
+        "text": "30 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 30,
+        "percent": 2.45
+      },
+      {
+        "name": "mapas",
+        "total_seconds": 30.55375,
+        "digital": "0:00:30",
+        "decimal": "0.00",
+        "text": "30 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 30,
+        "percent": 2.45
+      },
+      {
+        "name": "logging",
+        "total_seconds": 30.55375,
+        "digital": "0:00:30",
+        "decimal": "0.00",
+        "text": "30 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 30,
+        "percent": 2.45
+      }
+    ],
+    "machines": [
+      {
+        "name": "Chrome ( Pessoal ) at PopOS",
+        "total_seconds": 10210.302647,
+        "machine_name_id": "435402eb-1d38-40c9-b09e-c5f2150be7d9",
+        "digital": "2:50:10",
+        "decimal": "2.83",
+        "text": "2 hrs 50 mins",
+        "hours": 2,
+        "minutes": 50,
+        "seconds": 10,
+        "percent": 90.04
+      },
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 871,
+        "machine_name_id": "59cfcb90-c76d-48ea-9fcd-c6380d9c9484",
+        "digital": "0:14:31",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 31,
+        "percent": 7.68
+      },
+      {
+        "name": "8ded0ddd8765",
+        "total_seconds": 258.697353,
+        "machine_name_id": "8b948c03-238f-40ec-815a-9e48dd773651",
+        "digital": "0:04:18",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 18,
+        "percent": 2.28
+      }
+    ],
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 10210.302647,
+        "digital": "2:50:10",
+        "decimal": "2.83",
+        "text": "2 hrs 50 mins",
+        "hours": 2,
+        "minutes": 50,
+        "seconds": 10,
+        "percent": 90.04
+      },
+      {
+        "name": "Edge",
+        "total_seconds": 871,
+        "digital": "0:14:31",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 31,
+        "percent": 7.68
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 258.697353,
+        "digital": "0:04:18",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 18,
+        "percent": 2.28
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6982,
+        "digital": "1:56:22",
+        "decimal": "1.93",
+        "text": "1 hr 56 mins",
+        "hours": 1,
+        "minutes": 56,
+        "seconds": 22,
+        "percent": 61.57
+      },
+      {
+        "name": "Linux",
+        "total_seconds": 4358,
+        "digital": "1:12:38",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 38,
+        "percent": 38.43
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 11081.302647,
+        "digital": "3:04:41",
+        "decimal": "3.07",
+        "text": "3 hrs 4 mins",
+        "hours": 3,
+        "minutes": 4,
+        "seconds": 41,
+        "percent": 97.72
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 258.697353,
+        "digital": "0:04:18",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 18,
+        "percent": 2.28
       }
     ]
   }
