@@ -4585,35 +4585,6 @@
     }
   },
   "2023-08-25": {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 34,
-      "total_seconds": 2053,
-      "digital": "0:34",
-      "decimal": "0.57",
-      "text": "34 mins"
-    },
-    "range": {
-      "start": "2023-08-25T03:00:00Z",
-      "end": "2023-08-26T02:59:59Z",
-      "date": "2023-08-25",
-      "text": "Fri Aug 25th 2023",
-      "timezone": "America/Sao_Paulo"
-    },
-    "projects": [
-      {
-        "name": "workspace",
-        "total_seconds": 2053,
-        "color": null,
-        "digital": "0:34:13",
-        "decimal": "0.57",
-        "text": "34 mins",
-        "hours": 0,
-        "minutes": 34,
-        "seconds": 13,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -4627,33 +4598,14 @@
         "percent": 100
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "Chrome ( Pessoal ) at PopOS",
-        "total_seconds": 1876,
-        "machine_name_id": "c3317560-9a68-4acb-b6d1-0699d5f6bb79",
-        "digital": "0:31:16",
-        "decimal": "0.52",
-        "text": "31 mins",
-        "hours": 0,
-        "minutes": 31,
-        "seconds": 16,
-        "percent": 91.38
-      },
-      {
-        "name": "Edge at PopOS",
-        "total_seconds": 177,
-        "machine_name_id": "ae556034-f701-4446-915f-10c85f0a3e2c",
-        "digital": "0:02:57",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 57,
-        "percent": 8.62
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 34,
+      "total_seconds": 2053,
+      "digital": "0:34",
+      "decimal": "0.57",
+      "text": "34 mins"
+    },
     "editors": [
       {
         "name": "Chrome",
@@ -4701,6 +4653,210 @@
         "hours": 0,
         "minutes": 34,
         "seconds": 13,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Chrome ( Pessoal ) at PopOS",
+        "total_seconds": 1876,
+        "machine_name_id": "c3317560-9a68-4acb-b6d1-0699d5f6bb79",
+        "digital": "0:31:16",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 16,
+        "percent": 91.38
+      },
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 177,
+        "machine_name_id": "ae556034-f701-4446-915f-10c85f0a3e2c",
+        "digital": "0:02:57",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 57,
+        "percent": 8.62
+      }
+    ],
+    "projects": [
+      {
+        "name": "workspace",
+        "total_seconds": 2053,
+        "color": null,
+        "digital": "0:34:13",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 13,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-08-25T03:00:00Z",
+      "end": "2023-08-26T02:59:59Z",
+      "date": "2023-08-25",
+      "text": "Fri Aug 25th 2023",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2023-08-26": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 37,
+      "total_seconds": 2271,
+      "digital": "0:37",
+      "decimal": "0.62",
+      "text": "37 mins"
+    },
+    "range": {
+      "start": "2023-08-26T03:00:00Z",
+      "end": "2023-08-27T02:59:59Z",
+      "date": "2023-08-26",
+      "text": "Sat Aug 26th 2023",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "workspace",
+        "total_seconds": 2255,
+        "color": null,
+        "digital": "0:37:35",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 35,
+        "percent": 99.3
+      },
+      {
+        "name": "firestick-loader",
+        "total_seconds": 11,
+        "color": null,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.48
+      },
+      {
+        "name": "Root_firestick",
+        "total_seconds": 5,
+        "color": null,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.22
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 2271,
+        "digital": "0:37:51",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 51,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Chrome ( Pessoal ) at PopOS",
+        "total_seconds": 1990,
+        "machine_name_id": "aab94a74-450e-49f5-90d3-d4b749ff7de2",
+        "digital": "0:33:10",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 10,
+        "percent": 87.63
+      },
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 281,
+        "machine_name_id": "0d551a09-5e75-4970-b1ff-c1eee108e413",
+        "digital": "0:04:41",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 41,
+        "percent": 12.37
+      }
+    ],
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 1990,
+        "digital": "0:33:10",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 10,
+        "percent": 87.63
+      },
+      {
+        "name": "Edge",
+        "total_seconds": 281,
+        "digital": "0:04:41",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 41,
+        "percent": 12.37
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1940,
+        "digital": "0:32:20",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 20,
+        "percent": 85.42
+      },
+      {
+        "name": "Linux",
+        "total_seconds": 331,
+        "digital": "0:05:31",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 31,
+        "percent": 14.58
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 2271,
+        "digital": "0:37:51",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 51,
         "percent": 100
       }
     ]
