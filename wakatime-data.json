@@ -4960,95 +4960,6 @@
     }
   },
   "2023-08-28": {
-    "grand_total": {
-      "hours": 2,
-      "minutes": 35,
-      "total_seconds": 9330,
-      "digital": "2:35",
-      "decimal": "2.58",
-      "text": "2 hrs 35 mins"
-    },
-    "range": {
-      "start": "2023-08-28T03:00:00Z",
-      "end": "2023-08-29T02:59:59Z",
-      "date": "2023-08-28",
-      "text": "Mon Aug 28th 2023",
-      "timezone": "America/Sao_Paulo"
-    },
-    "projects": [
-      {
-        "name": "face-emotion-recognition",
-        "total_seconds": 5890,
-        "color": null,
-        "digital": "1:38:10",
-        "decimal": "1.63",
-        "text": "1 hr 38 mins",
-        "hours": 1,
-        "minutes": 38,
-        "seconds": 10,
-        "percent": 63.13
-      },
-      {
-        "name": "workspace",
-        "total_seconds": 1896,
-        "color": null,
-        "digital": "0:31:36",
-        "decimal": "0.52",
-        "text": "31 mins",
-        "hours": 0,
-        "minutes": 31,
-        "seconds": 36,
-        "percent": 20.32
-      },
-      {
-        "name": "ARBEx",
-        "total_seconds": 1331,
-        "color": null,
-        "digital": "0:22:11",
-        "decimal": "0.37",
-        "text": "22 mins",
-        "hours": 0,
-        "minutes": 22,
-        "seconds": 11,
-        "percent": 14.27
-      },
-      {
-        "name": "FERPlus",
-        "total_seconds": 171,
-        "color": null,
-        "digital": "0:02:51",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 51,
-        "percent": 1.83
-      },
-      {
-        "name": "hsemotion-onnx",
-        "total_seconds": 21,
-        "color": null,
-        "digital": "0:00:21",
-        "decimal": "0.00",
-        "text": "21 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 21,
-        "percent": 0.23
-      },
-      {
-        "name": "BReG-NeXt",
-        "total_seconds": 21,
-        "color": null,
-        "digital": "0:00:21",
-        "decimal": "0.00",
-        "text": "21 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 21,
-        "percent": 0.23
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -5062,33 +4973,14 @@
         "percent": 100
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "Edge at PopOS",
-        "total_seconds": 5015,
-        "machine_name_id": "0bd515e7-8beb-4efd-8404-47e5957087a2",
-        "digital": "1:23:35",
-        "decimal": "1.38",
-        "text": "1 hr 23 mins",
-        "hours": 1,
-        "minutes": 23,
-        "seconds": 35,
-        "percent": 53.75
-      },
-      {
-        "name": "Chrome ( Pessoal ) at PopOS",
-        "total_seconds": 4315,
-        "machine_name_id": "43d08b3a-418f-4270-b3d8-a7eba5e4a55e",
-        "digital": "1:11:55",
-        "decimal": "1.18",
-        "text": "1 hr 11 mins",
-        "hours": 1,
-        "minutes": 11,
-        "seconds": 55,
-        "percent": 46.25
-      }
-    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 35,
+      "total_seconds": 9330,
+      "digital": "2:35",
+      "decimal": "2.58",
+      "text": "2 hrs 35 mins"
+    },
     "editors": [
       {
         "name": "Edge",
@@ -5136,6 +5028,218 @@
         "hours": 2,
         "minutes": 35,
         "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 5015,
+        "machine_name_id": "0bd515e7-8beb-4efd-8404-47e5957087a2",
+        "digital": "1:23:35",
+        "decimal": "1.38",
+        "text": "1 hr 23 mins",
+        "hours": 1,
+        "minutes": 23,
+        "seconds": 35,
+        "percent": 53.75
+      },
+      {
+        "name": "Chrome ( Pessoal ) at PopOS",
+        "total_seconds": 4315,
+        "machine_name_id": "43d08b3a-418f-4270-b3d8-a7eba5e4a55e",
+        "digital": "1:11:55",
+        "decimal": "1.18",
+        "text": "1 hr 11 mins",
+        "hours": 1,
+        "minutes": 11,
+        "seconds": 55,
+        "percent": 46.25
+      }
+    ],
+    "projects": [
+      {
+        "name": "face-emotion-recognition",
+        "total_seconds": 5890,
+        "digital": "1:38:10",
+        "decimal": "1.63",
+        "text": "1 hr 38 mins",
+        "hours": 1,
+        "minutes": 38,
+        "seconds": 10,
+        "percent": 63.13
+      },
+      {
+        "name": "workspace",
+        "total_seconds": 1896,
+        "digital": "0:31:36",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 36,
+        "percent": 20.32
+      },
+      {
+        "name": "ARBEx",
+        "total_seconds": 1331,
+        "digital": "0:22:11",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 11,
+        "percent": 14.27
+      },
+      {
+        "name": "FERPlus",
+        "total_seconds": 171,
+        "digital": "0:02:51",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 51,
+        "percent": 1.83
+      },
+      {
+        "name": "hsemotion-onnx",
+        "total_seconds": 21,
+        "digital": "0:00:21",
+        "decimal": "0.00",
+        "text": "21 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 21,
+        "percent": 0.23
+      },
+      {
+        "name": "BReG-NeXt",
+        "total_seconds": 21,
+        "digital": "0:00:21",
+        "decimal": "0.00",
+        "text": "21 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 21,
+        "percent": 0.23
+      }
+    ],
+    "range": {
+      "start": "2023-08-28T03:00:00Z",
+      "end": "2023-08-29T02:59:59Z",
+      "date": "2023-08-28",
+      "text": "Mon Aug 28th 2023",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2023-08-29": {
+    "grand_total": {
+      "hours": 1,
+      "minutes": 17,
+      "total_seconds": 4640,
+      "digital": "1:17",
+      "decimal": "1.28",
+      "text": "1 hr 17 mins"
+    },
+    "range": {
+      "start": "2023-08-29T03:00:00Z",
+      "end": "2023-08-30T02:59:59Z",
+      "date": "2023-08-29",
+      "text": "Tue Aug 29th 2023",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "face-emotion-recognition",
+        "total_seconds": 4631,
+        "color": null,
+        "digital": "1:17:11",
+        "decimal": "1.28",
+        "text": "1 hr 17 mins",
+        "hours": 1,
+        "minutes": 17,
+        "seconds": 11,
+        "percent": 99.81
+      },
+      {
+        "name": "ARBEx",
+        "total_seconds": 9,
+        "color": null,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.19
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 4640,
+        "digital": "1:17:20",
+        "decimal": "1.28",
+        "text": "1 hr 17 mins",
+        "hours": 1,
+        "minutes": 17,
+        "seconds": 20,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 4640,
+        "machine_name_id": "81a20dde-0ea1-4aa3-a02b-d75bb8a691c5",
+        "digital": "1:17:20",
+        "decimal": "1.28",
+        "text": "1 hr 17 mins",
+        "hours": 1,
+        "minutes": 17,
+        "seconds": 20,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Edge",
+        "total_seconds": 4640,
+        "digital": "1:17:20",
+        "decimal": "1.28",
+        "text": "1 hr 17 mins",
+        "hours": 1,
+        "minutes": 17,
+        "seconds": 20,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4640,
+        "digital": "1:17:20",
+        "decimal": "1.28",
+        "text": "1 hr 17 mins",
+        "hours": 1,
+        "minutes": 17,
+        "seconds": 20,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 4640,
+        "digital": "1:17:20",
+        "decimal": "1.28",
+        "text": "1 hr 17 mins",
+        "hours": 1,
+        "minutes": 17,
+        "seconds": 20,
         "percent": 100
       }
     ]
