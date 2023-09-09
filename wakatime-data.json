@@ -6045,6 +6045,30 @@
     }
   },
   "2023-09-07": {
+    "languages": [],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
+    "editors": [],
+    "operating_systems": [],
+    "categories": [],
+    "dependencies": [],
+    "machines": [],
+    "projects": [],
+    "range": {
+      "start": "2023-09-07T03:00:00Z",
+      "end": "2023-09-08T02:59:59Z",
+      "date": "2023-09-07",
+      "text": "Thu Sep 7th 2023",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2023-09-08": {
     "grand_total": {
       "hours": 0,
       "minutes": 0,
@@ -6054,10 +6078,10 @@
       "text": "0 secs"
     },
     "range": {
-      "start": "2023-09-07T03:00:00Z",
-      "end": "2023-09-08T02:59:59Z",
-      "date": "2023-09-07",
-      "text": "Thu Sep 7th 2023",
+      "start": "2023-09-08T03:00:00Z",
+      "end": "2023-09-09T02:59:59Z",
+      "date": "2023-09-08",
+      "text": "Fri Sep 8th 2023",
       "timezone": "America/Sao_Paulo"
     },
     "projects": [],
