@@ -6419,47 +6419,6 @@
     }
   },
   "2023-09-13": {
-    "grand_total": {
-      "hours": 2,
-      "minutes": 13,
-      "total_seconds": 8026,
-      "digital": "2:13",
-      "decimal": "2.22",
-      "text": "2 hrs 13 mins"
-    },
-    "range": {
-      "start": "2023-09-13T03:00:00Z",
-      "end": "2023-09-14T02:59:59Z",
-      "date": "2023-09-13",
-      "text": "Wed Sep 13th 2023",
-      "timezone": "America/Sao_Paulo"
-    },
-    "projects": [
-      {
-        "name": "face-emotion-recognition",
-        "total_seconds": 7166,
-        "color": null,
-        "digital": "1:59:26",
-        "decimal": "1.98",
-        "text": "1 hr 59 mins",
-        "hours": 1,
-        "minutes": 59,
-        "seconds": 26,
-        "percent": 89.28
-      },
-      {
-        "name": "Kaggle-Notebooks",
-        "total_seconds": 860,
-        "color": null,
-        "digital": "0:14:20",
-        "decimal": "0.23",
-        "text": "14 mins",
-        "hours": 0,
-        "minutes": 14,
-        "seconds": 20,
-        "percent": 10.72
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -6473,21 +6432,14 @@
         "percent": 100
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "Edge at PopOS",
-        "total_seconds": 8026,
-        "machine_name_id": "b318b006-907a-4746-acad-9d0d758a42b6",
-        "digital": "2:13:46",
-        "decimal": "2.22",
-        "text": "2 hrs 13 mins",
-        "hours": 2,
-        "minutes": 13,
-        "seconds": 46,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 13,
+      "total_seconds": 8026,
+      "digital": "2:13",
+      "decimal": "2.22",
+      "text": "2 hrs 13 mins"
+    },
     "editors": [
       {
         "name": "Edge",
@@ -6524,6 +6476,175 @@
         "hours": 2,
         "minutes": 13,
         "seconds": 46,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 8026,
+        "machine_name_id": "b318b006-907a-4746-acad-9d0d758a42b6",
+        "digital": "2:13:46",
+        "decimal": "2.22",
+        "text": "2 hrs 13 mins",
+        "hours": 2,
+        "minutes": 13,
+        "seconds": 46,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "face-emotion-recognition",
+        "total_seconds": 7166,
+        "color": null,
+        "digital": "1:59:26",
+        "decimal": "1.98",
+        "text": "1 hr 59 mins",
+        "hours": 1,
+        "minutes": 59,
+        "seconds": 26,
+        "percent": 89.28
+      },
+      {
+        "name": "Kaggle-Notebooks",
+        "total_seconds": 860,
+        "color": null,
+        "digital": "0:14:20",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 20,
+        "percent": 10.72
+      }
+    ],
+    "range": {
+      "start": "2023-09-13T03:00:00Z",
+      "end": "2023-09-14T02:59:59Z",
+      "date": "2023-09-13",
+      "text": "Wed Sep 13th 2023",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2023-09-14": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 34,
+      "total_seconds": 2079,
+      "digital": "0:34",
+      "decimal": "0.57",
+      "text": "34 mins"
+    },
+    "range": {
+      "start": "2023-09-14T03:00:00Z",
+      "end": "2023-09-15T02:59:59Z",
+      "date": "2023-09-14",
+      "text": "Thu Sep 14th 2023",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "face-emotion-recognition",
+        "total_seconds": 2079,
+        "color": null,
+        "digital": "0:34:39",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 2079,
+        "digital": "0:34:39",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Chrome ( Pessoal ) at PopOS",
+        "total_seconds": 1566,
+        "machine_name_id": "b6afb947-9272-4265-95e3-f1a51473850a",
+        "digital": "0:26:06",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 6,
+        "percent": 75.32
+      },
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 513,
+        "machine_name_id": "72bf4e4c-14ca-44a2-8a6d-65587cfca652",
+        "digital": "0:08:33",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 33,
+        "percent": 24.68
+      }
+    ],
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 1566,
+        "digital": "0:26:06",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 6,
+        "percent": 75.32
+      },
+      {
+        "name": "Edge",
+        "total_seconds": 513,
+        "digital": "0:08:33",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 33,
+        "percent": 24.68
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2079,
+        "digital": "0:34:39",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 2079,
+        "digital": "0:34:39",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 39,
         "percent": 100
       }
     ]
