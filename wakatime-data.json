@@ -6844,35 +6844,6 @@
     }
   },
   "2023-09-20": {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 55,
-      "total_seconds": 3347,
-      "digital": "0:55",
-      "decimal": "0.92",
-      "text": "55 mins"
-    },
-    "range": {
-      "start": "2023-09-20T03:00:00Z",
-      "end": "2023-09-21T02:59:59Z",
-      "date": "2023-09-20",
-      "text": "Wed Sep 20th 2023",
-      "timezone": "America/Sao_Paulo"
-    },
-    "projects": [
-      {
-        "name": "face-emotion-recognition",
-        "total_seconds": 3347,
-        "color": null,
-        "digital": "0:55:47",
-        "decimal": "0.92",
-        "text": "55 mins",
-        "hours": 0,
-        "minutes": 55,
-        "seconds": 47,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -6886,21 +6857,14 @@
         "percent": 100
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "Edge at PopOS",
-        "total_seconds": 3347,
-        "machine_name_id": "180fef65-cfc1-4739-98af-81aeb4cd463d",
-        "digital": "0:55:47",
-        "decimal": "0.92",
-        "text": "55 mins",
-        "hours": 0,
-        "minutes": 55,
-        "seconds": 47,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 55,
+      "total_seconds": 3347,
+      "digital": "0:55",
+      "decimal": "0.92",
+      "text": "55 mins"
+    },
     "editors": [
       {
         "name": "Edge",
@@ -6938,6 +6902,140 @@
         "minutes": 55,
         "seconds": 47,
         "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 3347,
+        "machine_name_id": "180fef65-cfc1-4739-98af-81aeb4cd463d",
+        "digital": "0:55:47",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 47,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "face-emotion-recognition",
+        "total_seconds": 3347,
+        "color": null,
+        "digital": "0:55:47",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 47,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-09-20T03:00:00Z",
+      "end": "2023-09-21T02:59:59Z",
+      "date": "2023-09-20",
+      "text": "Wed Sep 20th 2023",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2023-09-21": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
+    "range": {
+      "start": "2023-09-21T03:00:00Z",
+      "end": "2023-09-22T02:59:59Z",
+      "date": "2023-09-21",
+      "text": "Thu Sep 21st 2023",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "face-emotion-recognition",
+        "total_seconds": 0,
+        "color": null,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 0,
+        "machine_name_id": "0ee0c7e3-aa36-4c0a-9e62-fa8e5a13a0ee",
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "editors": [
+      {
+        "name": "Edge",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
       }
     ]
   }
