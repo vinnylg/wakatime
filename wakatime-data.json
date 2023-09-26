@@ -7088,6 +7088,7 @@
     }
   },
   "2023-09-24": {
+    "languages": [],
     "grand_total": {
       "hours": 0,
       "minutes": 0,
@@ -7096,19 +7097,223 @@
       "decimal": "0.00",
       "text": "0 secs"
     },
+    "editors": [],
+    "operating_systems": [],
+    "categories": [],
+    "dependencies": [],
+    "machines": [],
+    "projects": [],
     "range": {
       "start": "2023-09-24T03:00:00Z",
       "end": "2023-09-25T02:59:59Z",
       "date": "2023-09-24",
       "text": "Sun Sep 24th 2023",
       "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2023-09-25": {
+    "grand_total": {
+      "hours": 3,
+      "minutes": 27,
+      "total_seconds": 12442,
+      "digital": "3:27",
+      "decimal": "3.45",
+      "text": "3 hrs 27 mins"
     },
-    "projects": [],
-    "languages": [],
+    "range": {
+      "start": "2023-09-25T03:00:00Z",
+      "end": "2023-09-26T02:59:59Z",
+      "date": "2023-09-25",
+      "text": "Mon Sep 25th 2023",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "face-emotion-recognition",
+        "total_seconds": 5736,
+        "color": null,
+        "digital": "1:35:36",
+        "decimal": "1.58",
+        "text": "1 hr 35 mins",
+        "hours": 1,
+        "minutes": 35,
+        "seconds": 36,
+        "percent": 46.1
+      },
+      {
+        "name": "PowerShell",
+        "total_seconds": 2812,
+        "color": null,
+        "digital": "0:46:52",
+        "decimal": "0.77",
+        "text": "46 mins",
+        "hours": 0,
+        "minutes": 46,
+        "seconds": 52,
+        "percent": 22.6
+      },
+      {
+        "name": "pdfminer-feedstock",
+        "total_seconds": 1694,
+        "color": null,
+        "digital": "0:28:14",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 14,
+        "percent": 13.62
+      },
+      {
+        "name": "zotero-reference#readme",
+        "total_seconds": 1123,
+        "color": null,
+        "digital": "0:18:43",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 43,
+        "percent": 9.03
+      },
+      {
+        "name": "ref-extractor",
+        "total_seconds": 695,
+        "color": null,
+        "digital": "0:11:35",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 35,
+        "percent": 5.59
+      },
+      {
+        "name": "zotero-reference",
+        "total_seconds": 310,
+        "color": null,
+        "digital": "0:05:10",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 10,
+        "percent": 2.49
+      },
+      {
+        "name": "zotero-reference#-%E4%BD%BF%E7%94%A8",
+        "total_seconds": 43,
+        "color": null,
+        "digital": "0:00:43",
+        "decimal": "0.00",
+        "text": "43 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 43,
+        "percent": 0.35
+      },
+      {
+        "name": "zotero-plugin-template",
+        "total_seconds": 29,
+        "color": null,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 0.23
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 12442,
+        "digital": "3:27:22",
+        "decimal": "3.45",
+        "text": "3 hrs 27 mins",
+        "hours": 3,
+        "minutes": 27,
+        "seconds": 22,
+        "percent": 100
+      }
+    ],
     "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 12187,
+        "machine_name_id": "d7b3afbc-920a-491b-8954-b65036f3df20",
+        "digital": "3:23:07",
+        "decimal": "3.38",
+        "text": "3 hrs 23 mins",
+        "hours": 3,
+        "minutes": 23,
+        "seconds": 7,
+        "percent": 97.95
+      },
+      {
+        "name": "Chrome ( Pessoal ) at PopOS",
+        "total_seconds": 255,
+        "machine_name_id": "427b7094-d519-49e5-b262-d48bbf26445e",
+        "digital": "0:04:15",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 15,
+        "percent": 2.05
+      }
+    ],
+    "editors": [
+      {
+        "name": "Edge",
+        "total_seconds": 12187,
+        "digital": "3:23:07",
+        "decimal": "3.38",
+        "text": "3 hrs 23 mins",
+        "hours": 3,
+        "minutes": 23,
+        "seconds": 7,
+        "percent": 97.95
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 255,
+        "digital": "0:04:15",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 15,
+        "percent": 2.05
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 12442,
+        "digital": "3:27:22",
+        "decimal": "3.45",
+        "text": "3 hrs 27 mins",
+        "hours": 3,
+        "minutes": 27,
+        "seconds": 22,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 12442,
+        "digital": "3:27:22",
+        "decimal": "3.45",
+        "text": "3 hrs 27 mins",
+        "hours": 3,
+        "minutes": 27,
+        "seconds": 22,
+        "percent": 100
+      }
+    ]
   }
 }
