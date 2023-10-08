@@ -8328,35 +8328,6 @@
     }
   },
   "2023-10-06": {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 10,
-      "total_seconds": 642,
-      "digital": "0:10",
-      "decimal": "0.17",
-      "text": "10 mins"
-    },
-    "range": {
-      "start": "2023-10-06T03:00:00Z",
-      "end": "2023-10-07T02:59:59Z",
-      "date": "2023-10-06",
-      "text": "Fri Oct 6th 2023",
-      "timezone": "America/Sao_Paulo"
-    },
-    "projects": [
-      {
-        "name": "zotero-reference",
-        "total_seconds": 642,
-        "color": null,
-        "digital": "0:10:42",
-        "decimal": "0.17",
-        "text": "10 mins",
-        "hours": 0,
-        "minutes": 10,
-        "seconds": 42,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -8370,21 +8341,14 @@
         "percent": 100
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "Edge at PopOS",
-        "total_seconds": 642,
-        "machine_name_id": "018b0603-ef36-46c8-ba1b-694df7031288",
-        "digital": "0:10:42",
-        "decimal": "0.17",
-        "text": "10 mins",
-        "hours": 0,
-        "minutes": 10,
-        "seconds": 42,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 10,
+      "total_seconds": 642,
+      "digital": "0:10",
+      "decimal": "0.17",
+      "text": "10 mins"
+    },
     "editors": [
       {
         "name": "Edge",
@@ -8423,6 +8387,66 @@
         "seconds": 42,
         "percent": 100
       }
-    ]
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 642,
+        "machine_name_id": "018b0603-ef36-46c8-ba1b-694df7031288",
+        "digital": "0:10:42",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "zotero-reference",
+        "total_seconds": 642,
+        "color": null,
+        "digital": "0:10:42",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-10-06T03:00:00Z",
+      "end": "2023-10-07T02:59:59Z",
+      "date": "2023-10-06",
+      "text": "Fri Oct 6th 2023",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2023-10-07": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
+    "range": {
+      "start": "2023-10-07T03:00:00Z",
+      "end": "2023-10-08T02:59:59Z",
+      "date": "2023-10-07",
+      "text": "Sat Oct 7th 2023",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [],
+    "languages": [],
+    "dependencies": [],
+    "machines": [],
+    "editors": [],
+    "operating_systems": [],
+    "categories": []
   }
 }
