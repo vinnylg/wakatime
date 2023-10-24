@@ -9828,6 +9828,7 @@
     }
   },
   "2023-10-22": {
+    "languages": [],
     "grand_total": {
       "hours": 0,
       "minutes": 0,
@@ -9836,19 +9837,116 @@
       "decimal": "0.00",
       "text": "0 secs"
     },
+    "editors": [],
+    "operating_systems": [],
+    "categories": [],
+    "dependencies": [],
+    "machines": [],
+    "projects": [],
     "range": {
       "start": "2023-10-22T03:00:00Z",
       "end": "2023-10-23T02:59:59Z",
       "date": "2023-10-22",
       "text": "Sun Oct 22nd 2023",
       "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2023-10-23": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 45,
+      "total_seconds": 2736,
+      "digital": "0:45",
+      "decimal": "0.75",
+      "text": "45 mins"
     },
-    "projects": [],
-    "languages": [],
+    "range": {
+      "start": "2023-10-23T03:00:00Z",
+      "end": "2023-10-24T02:59:59Z",
+      "date": "2023-10-23",
+      "text": "Mon Oct 23rd 2023",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "zotero-reference",
+        "total_seconds": 2736,
+        "color": null,
+        "digital": "0:45:36",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 2736,
+        "digital": "0:45:36",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
     "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 2736,
+        "machine_name_id": "018b5efd-279b-42a8-a593-2979873f40ab",
+        "digital": "0:45:36",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Edge",
+        "total_seconds": 2736,
+        "digital": "0:45:36",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2736,
+        "digital": "0:45:36",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 2736,
+        "digital": "0:45:36",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 36,
+        "percent": 100
+      }
+    ]
   }
 }
