@@ -10977,35 +10977,6 @@
     }
   },
   "2023-11-03": {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 9,
-      "total_seconds": 4194,
-      "digital": "1:09",
-      "decimal": "1.15",
-      "text": "1 hr 9 mins"
-    },
-    "range": {
-      "start": "2023-11-03T03:00:00Z",
-      "end": "2023-11-04T02:59:59Z",
-      "date": "2023-11-03",
-      "text": "Fri Nov 3rd 2023",
-      "timezone": "America/Sao_Paulo"
-    },
-    "projects": [
-      {
-        "name": "csv2ris",
-        "total_seconds": 4194,
-        "color": null,
-        "digital": "1:09:54",
-        "decimal": "1.15",
-        "text": "1 hr 9 mins",
-        "hours": 1,
-        "minutes": 9,
-        "seconds": 54,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -11019,21 +10990,14 @@
         "percent": 100
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "Edge at PopOS",
-        "total_seconds": 4194,
-        "machine_name_id": "018b9632-4cac-4d86-a366-8aad7c4d6ff8",
-        "digital": "1:09:54",
-        "decimal": "1.15",
-        "text": "1 hr 9 mins",
-        "hours": 1,
-        "minutes": 9,
-        "seconds": 54,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 9,
+      "total_seconds": 4194,
+      "digital": "1:09",
+      "decimal": "1.15",
+      "text": "1 hr 9 mins"
+    },
     "editors": [
       {
         "name": "Edge",
@@ -11070,6 +11034,140 @@
         "hours": 1,
         "minutes": 9,
         "seconds": 54,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 4194,
+        "machine_name_id": "018b9632-4cac-4d86-a366-8aad7c4d6ff8",
+        "digital": "1:09:54",
+        "decimal": "1.15",
+        "text": "1 hr 9 mins",
+        "hours": 1,
+        "minutes": 9,
+        "seconds": 54,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "csv2ris",
+        "total_seconds": 4194,
+        "color": null,
+        "digital": "1:09:54",
+        "decimal": "1.15",
+        "text": "1 hr 9 mins",
+        "hours": 1,
+        "minutes": 9,
+        "seconds": 54,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-11-03T03:00:00Z",
+      "end": "2023-11-04T02:59:59Z",
+      "date": "2023-11-03",
+      "text": "Fri Nov 3rd 2023",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2023-11-04": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 10,
+      "total_seconds": 625,
+      "digital": "0:10",
+      "decimal": "0.17",
+      "text": "10 mins"
+    },
+    "range": {
+      "start": "2023-11-04T03:00:00Z",
+      "end": "2023-11-05T02:59:59Z",
+      "date": "2023-11-04",
+      "text": "Sat Nov 4th 2023",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "csv2ris",
+        "total_seconds": 625,
+        "color": null,
+        "digital": "0:10:25",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 625,
+        "digital": "0:10:25",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 625,
+        "machine_name_id": "018b9aca-8ddb-44ca-939a-8f5c32f92882",
+        "digital": "0:10:25",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Edge",
+        "total_seconds": 625,
+        "digital": "0:10:25",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 625,
+        "digital": "0:10:25",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 625,
+        "digital": "0:10:25",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 25,
         "percent": 100
       }
     ]
