@@ -12358,35 +12358,6 @@
     }
   },
   "2023-11-19": {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 10,
-      "total_seconds": 634,
-      "digital": "0:10",
-      "decimal": "0.17",
-      "text": "10 mins"
-    },
-    "range": {
-      "start": "2023-11-19T03:00:00Z",
-      "end": "2023-11-20T02:59:59Z",
-      "date": "2023-11-19",
-      "text": "Sun Nov 19th 2023",
-      "timezone": "America/Sao_Paulo"
-    },
-    "projects": [
-      {
-        "name": "zotero-better-bibtex",
-        "total_seconds": 634,
-        "color": null,
-        "digital": "0:10:34",
-        "decimal": "0.17",
-        "text": "10 mins",
-        "hours": 0,
-        "minutes": 10,
-        "seconds": 34,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -12400,33 +12371,14 @@
         "percent": 100
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "Edge at PopOS",
-        "total_seconds": 634,
-        "machine_name_id": "018be826-a188-4c78-ab1a-1bd8d8c6b29d",
-        "digital": "0:10:34",
-        "decimal": "0.17",
-        "text": "10 mins",
-        "hours": 0,
-        "minutes": 10,
-        "seconds": 34,
-        "percent": 100
-      },
-      {
-        "name": "Chrome ( Pessoal ) at PopOS",
-        "total_seconds": 0,
-        "machine_name_id": "018be830-a896-4bba-9c3f-5103d475853a",
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 10,
+      "total_seconds": 634,
+      "digital": "0:10",
+      "decimal": "0.17",
+      "text": "10 mins"
+    },
     "editors": [
       {
         "name": "Edge",
@@ -12474,6 +12426,152 @@
         "hours": 0,
         "minutes": 10,
         "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 634,
+        "machine_name_id": "018be826-a188-4c78-ab1a-1bd8d8c6b29d",
+        "digital": "0:10:34",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 34,
+        "percent": 100
+      },
+      {
+        "name": "Chrome ( Pessoal ) at PopOS",
+        "total_seconds": 0,
+        "machine_name_id": "018be830-a896-4bba-9c3f-5103d475853a",
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "projects": [
+      {
+        "name": "zotero-better-bibtex",
+        "total_seconds": 634,
+        "color": null,
+        "digital": "0:10:34",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-11-19T03:00:00Z",
+      "end": "2023-11-20T02:59:59Z",
+      "date": "2023-11-19",
+      "text": "Sun Nov 19th 2023",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2023-11-20": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 37,
+      "total_seconds": 2229,
+      "digital": "0:37",
+      "decimal": "0.62",
+      "text": "37 mins"
+    },
+    "range": {
+      "start": "2023-11-20T03:00:00Z",
+      "end": "2023-11-21T02:59:59Z",
+      "date": "2023-11-20",
+      "text": "Mon Nov 20th 2023",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "zotero-better-bibtex",
+        "total_seconds": 2229,
+        "color": null,
+        "digital": "0:37:09",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 9,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 2229,
+        "digital": "0:37:09",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 9,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 2229,
+        "machine_name_id": "018bed77-eab3-4d0d-adfc-8a5ba329195a",
+        "digital": "0:37:09",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 9,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Edge",
+        "total_seconds": 2229,
+        "digital": "0:37:09",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 9,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2229,
+        "digital": "0:37:09",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 9,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 2229,
+        "digital": "0:37:09",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 9,
         "percent": 100
       }
     ]
