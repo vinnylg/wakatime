@@ -12894,35 +12894,6 @@
     }
   },
   "2023-11-24": {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 11,
-      "total_seconds": 4319,
-      "digital": "1:11",
-      "decimal": "1.18",
-      "text": "1 hr 11 mins"
-    },
-    "range": {
-      "start": "2023-11-24T03:00:00Z",
-      "end": "2023-11-25T02:59:59Z",
-      "date": "2023-11-24",
-      "text": "Fri Nov 24th 2023",
-      "timezone": "America/Sao_Paulo"
-    },
-    "projects": [
-      {
-        "name": "zotero-better-bibtex",
-        "total_seconds": 4319,
-        "color": null,
-        "digital": "1:11:59",
-        "decimal": "1.18",
-        "text": "1 hr 11 mins",
-        "hours": 1,
-        "minutes": 11,
-        "seconds": 59,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -12936,21 +12907,14 @@
         "percent": 100
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "Edge at PopOS",
-        "total_seconds": 4319,
-        "machine_name_id": "018c01e3-6ae2-40a4-8323-dc788971aaa9",
-        "digital": "1:11:59",
-        "decimal": "1.18",
-        "text": "1 hr 11 mins",
-        "hours": 1,
-        "minutes": 11,
-        "seconds": 59,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 11,
+      "total_seconds": 4319,
+      "digital": "1:11",
+      "decimal": "1.18",
+      "text": "1 hr 11 mins"
+    },
     "editors": [
       {
         "name": "Edge",
@@ -12989,6 +12953,66 @@
         "seconds": 59,
         "percent": 100
       }
-    ]
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 4319,
+        "machine_name_id": "018c01e3-6ae2-40a4-8323-dc788971aaa9",
+        "digital": "1:11:59",
+        "decimal": "1.18",
+        "text": "1 hr 11 mins",
+        "hours": 1,
+        "minutes": 11,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "zotero-better-bibtex",
+        "total_seconds": 4319,
+        "color": null,
+        "digital": "1:11:59",
+        "decimal": "1.18",
+        "text": "1 hr 11 mins",
+        "hours": 1,
+        "minutes": 11,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-11-24T03:00:00Z",
+      "end": "2023-11-25T02:59:59Z",
+      "date": "2023-11-24",
+      "text": "Fri Nov 24th 2023",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2023-11-25": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
+    "range": {
+      "start": "2023-11-25T03:00:00Z",
+      "end": "2023-11-26T02:59:59Z",
+      "date": "2023-11-25",
+      "text": "Sat Nov 25th 2023",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [],
+    "languages": [],
+    "dependencies": [],
+    "machines": [],
+    "editors": [],
+    "operating_systems": [],
+    "categories": []
   }
 }
