@@ -14487,6 +14487,7 @@
     }
   },
   "2023-12-14": {
+    "languages": [],
     "grand_total": {
       "hours": 0,
       "minutes": 0,
@@ -14495,19 +14496,163 @@
       "decimal": "0.00",
       "text": "0 secs"
     },
+    "editors": [],
+    "operating_systems": [],
+    "categories": [],
+    "dependencies": [],
+    "machines": [],
+    "projects": [],
     "range": {
       "start": "2023-12-14T03:00:00Z",
       "end": "2023-12-15T02:59:59Z",
       "date": "2023-12-14",
       "text": "Thu Dec 14th 2023",
       "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2023-12-15": {
+    "grand_total": {
+      "hours": 1,
+      "minutes": 15,
+      "total_seconds": 4521,
+      "digital": "1:15",
+      "decimal": "1.25",
+      "text": "1 hr 15 mins"
     },
-    "projects": [],
-    "languages": [],
+    "range": {
+      "start": "2023-12-15T03:00:00Z",
+      "end": "2023-12-16T02:59:59Z",
+      "date": "2023-12-15",
+      "text": "Fri Dec 15th 2023",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "PyMuPDF",
+        "total_seconds": 4412,
+        "color": null,
+        "digital": "1:13:32",
+        "decimal": "1.22",
+        "text": "1 hr 13 mins",
+        "hours": 1,
+        "minutes": 13,
+        "seconds": 32,
+        "percent": 97.59
+      },
+      {
+        "name": "meconsulta",
+        "total_seconds": 80,
+        "color": null,
+        "digital": "0:01:20",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 20,
+        "percent": 1.77
+      },
+      {
+        "name": "verified-device",
+        "total_seconds": 29,
+        "color": null,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 0.64
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 4521,
+        "digital": "1:15:21",
+        "decimal": "1.25",
+        "text": "1 hr 15 mins",
+        "hours": 1,
+        "minutes": 15,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
     "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 4105,
+        "machine_name_id": "018c6e81-4652-4cd1-a269-f81aeda0a9dc",
+        "digital": "1:08:25",
+        "decimal": "1.13",
+        "text": "1 hr 8 mins",
+        "hours": 1,
+        "minutes": 8,
+        "seconds": 25,
+        "percent": 90.8
+      },
+      {
+        "name": "Chrome ( Pessoal ) at PopOS",
+        "total_seconds": 416,
+        "machine_name_id": "018c6eab-2d0f-419b-800d-e3a34b97b8a8",
+        "digital": "0:06:56",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 56,
+        "percent": 9.2
+      }
+    ],
+    "editors": [
+      {
+        "name": "Edge",
+        "total_seconds": 4105,
+        "digital": "1:08:25",
+        "decimal": "1.13",
+        "text": "1 hr 8 mins",
+        "hours": 1,
+        "minutes": 8,
+        "seconds": 25,
+        "percent": 90.8
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 416,
+        "digital": "0:06:56",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 56,
+        "percent": 9.2
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4521,
+        "digital": "1:15:21",
+        "decimal": "1.25",
+        "text": "1 hr 15 mins",
+        "hours": 1,
+        "minutes": 15,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 4521,
+        "digital": "1:15:21",
+        "decimal": "1.25",
+        "text": "1 hr 15 mins",
+        "hours": 1,
+        "minutes": 15,
+        "seconds": 21,
+        "percent": 100
+      }
+    ]
   }
 }
