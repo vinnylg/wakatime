@@ -14656,26 +14656,10 @@
     }
   },
   "2023-12-16": {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 51,
-      "total_seconds": 6685,
-      "digital": "1:51",
-      "decimal": "1.85",
-      "text": "1 hr 51 mins"
-    },
-    "range": {
-      "start": "2023-12-16T03:00:00Z",
-      "end": "2023-12-17T02:59:59Z",
-      "date": "2023-12-16",
-      "text": "Sat Dec 16th 2023",
-      "timezone": "America/Sao_Paulo"
-    },
-    "projects": [
+    "languages": [
       {
-        "name": "PyMuPDF",
+        "name": "Other",
         "total_seconds": 6685,
-        "color": null,
         "digital": "1:51:25",
         "decimal": "1.85",
         "text": "1 hr 51 mins",
@@ -14685,9 +14669,54 @@
         "percent": 100
       }
     ],
-    "languages": [
+    "grand_total": {
+      "hours": 1,
+      "minutes": 51,
+      "total_seconds": 6685,
+      "digital": "1:51",
+      "decimal": "1.85",
+      "text": "1 hr 51 mins"
+    },
+    "editors": [
       {
-        "name": "Other",
+        "name": "Edge",
+        "total_seconds": 6624,
+        "digital": "1:50:24",
+        "decimal": "1.83",
+        "text": "1 hr 50 mins",
+        "hours": 1,
+        "minutes": 50,
+        "seconds": 24,
+        "percent": 99.09
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 61,
+        "digital": "0:01:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 1,
+        "percent": 0.91
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6685,
+        "digital": "1:51:25",
+        "decimal": "1.85",
+        "text": "1 hr 51 mins",
+        "hours": 1,
+        "minutes": 51,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
         "total_seconds": 6685,
         "digital": "1:51:25",
         "decimal": "1.85",
@@ -14737,33 +14766,9 @@
         "percent": 0.18
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "Edge",
-        "total_seconds": 6624,
-        "digital": "1:50:24",
-        "decimal": "1.83",
-        "text": "1 hr 50 mins",
-        "hours": 1,
-        "minutes": 50,
-        "seconds": 24,
-        "percent": 99.09
-      },
-      {
-        "name": "Chrome",
-        "total_seconds": 61,
-        "digital": "0:01:01",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 1,
-        "percent": 0.91
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
+        "name": "PyMuPDF",
         "total_seconds": 6685,
         "digital": "1:51:25",
         "decimal": "1.85",
@@ -14774,16 +14779,108 @@
         "percent": 100
       }
     ],
+    "range": {
+      "start": "2023-12-16T03:00:00Z",
+      "end": "2023-12-17T02:59:59Z",
+      "date": "2023-12-16",
+      "text": "Sat Dec 16th 2023",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2023-12-17": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 7,
+      "total_seconds": 428,
+      "digital": "0:07",
+      "decimal": "0.12",
+      "text": "7 mins"
+    },
+    "range": {
+      "start": "2023-12-17T03:00:00Z",
+      "end": "2023-12-18T02:59:59Z",
+      "date": "2023-12-17",
+      "text": "Sun Dec 17th 2023",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "PyMuPDF",
+        "total_seconds": 428,
+        "color": null,
+        "digital": "0:07:08",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 428,
+        "digital": "0:07:08",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 428,
+        "machine_name_id": "018c78a5-5889-4c13-a214-2f319da26b31",
+        "digital": "0:07:08",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Edge",
+        "total_seconds": 428,
+        "digital": "0:07:08",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 428,
+        "digital": "0:07:08",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
     "categories": [
       {
         "name": "Browsing",
-        "total_seconds": 6685,
-        "digital": "1:51:25",
-        "decimal": "1.85",
-        "text": "1 hr 51 mins",
-        "hours": 1,
-        "minutes": 51,
-        "seconds": 25,
+        "total_seconds": 428,
+        "digital": "0:07:08",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 8,
         "percent": 100
       }
     ]
