@@ -14984,6 +14984,19 @@
     }
   },
   "2023-12-19": {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 18365,
+        "digital": "5:06:05",
+        "decimal": "5.10",
+        "text": "5 hrs 6 mins",
+        "hours": 5,
+        "minutes": 6,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
     "grand_total": {
       "hours": 5,
       "minutes": 6,
@@ -14992,13 +15005,60 @@
       "decimal": "5.10",
       "text": "5 hrs 6 mins"
     },
-    "range": {
-      "start": "2023-12-19T03:00:00Z",
-      "end": "2023-12-20T02:59:59Z",
-      "date": "2023-12-19",
-      "text": "Tue Dec 19th 2023",
-      "timezone": "America/Sao_Paulo"
-    },
+    "editors": [
+      {
+        "name": "Edge",
+        "total_seconds": 18365,
+        "digital": "5:06:05",
+        "decimal": "5.10",
+        "text": "5 hrs 6 mins",
+        "hours": 5,
+        "minutes": 6,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 18365,
+        "digital": "5:06:05",
+        "decimal": "5.10",
+        "text": "5 hrs 6 mins",
+        "hours": 5,
+        "minutes": 6,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 18365,
+        "digital": "5:06:05",
+        "decimal": "5.10",
+        "text": "5 hrs 6 mins",
+        "hours": 5,
+        "minutes": 6,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 18365,
+        "machine_name_id": "018c81bf-c0cf-4011-9126-69057ab7c7ef",
+        "digital": "5:06:05",
+        "decimal": "5.10",
+        "text": "5 hrs 6 mins",
+        "hours": 5,
+        "minutes": 6,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
     "projects": [
       {
         "name": "PyMuPDF",
@@ -15049,16 +15109,54 @@
         "percent": 0.01
       }
     ],
+    "range": {
+      "start": "2023-12-19T03:00:00Z",
+      "end": "2023-12-20T02:59:59Z",
+      "date": "2023-12-19",
+      "text": "Tue Dec 19th 2023",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2023-12-20": {
+    "grand_total": {
+      "hours": 1,
+      "minutes": 11,
+      "total_seconds": 4290,
+      "digital": "1:11",
+      "decimal": "1.18",
+      "text": "1 hr 11 mins"
+    },
+    "range": {
+      "start": "2023-12-20T03:00:00Z",
+      "end": "2023-12-21T02:59:59Z",
+      "date": "2023-12-20",
+      "text": "Wed Dec 20th 2023",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "cite2c",
+        "total_seconds": 4290,
+        "color": null,
+        "digital": "1:11:30",
+        "decimal": "1.18",
+        "text": "1 hr 11 mins",
+        "hours": 1,
+        "minutes": 11,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
     "languages": [
       {
         "name": "Other",
-        "total_seconds": 18365,
-        "digital": "5:06:05",
-        "decimal": "5.10",
-        "text": "5 hrs 6 mins",
-        "hours": 5,
-        "minutes": 6,
-        "seconds": 5,
+        "total_seconds": 4290,
+        "digital": "1:11:30",
+        "decimal": "1.18",
+        "text": "1 hr 11 mins",
+        "hours": 1,
+        "minutes": 11,
+        "seconds": 30,
         "percent": 100
       }
     ],
@@ -15066,53 +15164,53 @@
     "machines": [
       {
         "name": "Edge at PopOS",
-        "total_seconds": 18365,
-        "machine_name_id": "018c81bf-c0cf-4011-9126-69057ab7c7ef",
-        "digital": "5:06:05",
-        "decimal": "5.10",
-        "text": "5 hrs 6 mins",
-        "hours": 5,
-        "minutes": 6,
-        "seconds": 5,
+        "total_seconds": 4290,
+        "machine_name_id": "018c878d-1fcc-468c-a27d-f1b2ee47939a",
+        "digital": "1:11:30",
+        "decimal": "1.18",
+        "text": "1 hr 11 mins",
+        "hours": 1,
+        "minutes": 11,
+        "seconds": 30,
         "percent": 100
       }
     ],
     "editors": [
       {
         "name": "Edge",
-        "total_seconds": 18365,
-        "digital": "5:06:05",
-        "decimal": "5.10",
-        "text": "5 hrs 6 mins",
-        "hours": 5,
-        "minutes": 6,
-        "seconds": 5,
+        "total_seconds": 4290,
+        "digital": "1:11:30",
+        "decimal": "1.18",
+        "text": "1 hr 11 mins",
+        "hours": 1,
+        "minutes": 11,
+        "seconds": 30,
         "percent": 100
       }
     ],
     "operating_systems": [
       {
         "name": "Windows",
-        "total_seconds": 18365,
-        "digital": "5:06:05",
-        "decimal": "5.10",
-        "text": "5 hrs 6 mins",
-        "hours": 5,
-        "minutes": 6,
-        "seconds": 5,
+        "total_seconds": 4290,
+        "digital": "1:11:30",
+        "decimal": "1.18",
+        "text": "1 hr 11 mins",
+        "hours": 1,
+        "minutes": 11,
+        "seconds": 30,
         "percent": 100
       }
     ],
     "categories": [
       {
         "name": "Browsing",
-        "total_seconds": 18365,
-        "digital": "5:06:05",
-        "decimal": "5.10",
-        "text": "5 hrs 6 mins",
-        "hours": 5,
-        "minutes": 6,
-        "seconds": 5,
+        "total_seconds": 4290,
+        "digital": "1:11:30",
+        "decimal": "1.18",
+        "text": "1 hr 11 mins",
+        "hours": 1,
+        "minutes": 11,
+        "seconds": 30,
         "percent": 100
       }
     ]
