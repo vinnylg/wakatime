@@ -15216,35 +15216,6 @@
     }
   },
   "2023-12-21": {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 55,
-      "total_seconds": 3310,
-      "digital": "0:55",
-      "decimal": "0.92",
-      "text": "55 mins"
-    },
-    "range": {
-      "start": "2023-12-21T03:00:00Z",
-      "end": "2023-12-22T02:59:59Z",
-      "date": "2023-12-21",
-      "text": "Thu Dec 21st 2023",
-      "timezone": "America/Sao_Paulo"
-    },
-    "projects": [
-      {
-        "name": "cite2c",
-        "total_seconds": 3310,
-        "color": null,
-        "digital": "0:55:10",
-        "decimal": "0.92",
-        "text": "55 mins",
-        "hours": 0,
-        "minutes": 55,
-        "seconds": 10,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -15258,21 +15229,14 @@
         "percent": 100
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "Edge at PopOS",
-        "total_seconds": 3310,
-        "machine_name_id": "018c8d52-7d0d-4c03-8745-11056e23ee33",
-        "digital": "0:55:10",
-        "decimal": "0.92",
-        "text": "55 mins",
-        "hours": 0,
-        "minutes": 55,
-        "seconds": 10,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 55,
+      "total_seconds": 3310,
+      "digital": "0:55",
+      "decimal": "0.92",
+      "text": "55 mins"
+    },
     "editors": [
       {
         "name": "Edge",
@@ -15309,6 +15273,140 @@
         "hours": 0,
         "minutes": 55,
         "seconds": 10,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 3310,
+        "machine_name_id": "018c8d52-7d0d-4c03-8745-11056e23ee33",
+        "digital": "0:55:10",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 10,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "cite2c",
+        "total_seconds": 3310,
+        "color": null,
+        "digital": "0:55:10",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 10,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-12-21T03:00:00Z",
+      "end": "2023-12-22T02:59:59Z",
+      "date": "2023-12-21",
+      "text": "Thu Dec 21st 2023",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2023-12-22": {
+    "grand_total": {
+      "hours": 2,
+      "minutes": 55,
+      "total_seconds": 10525,
+      "digital": "2:55",
+      "decimal": "2.92",
+      "text": "2 hrs 55 mins"
+    },
+    "range": {
+      "start": "2023-12-22T03:00:00Z",
+      "end": "2023-12-23T02:59:59Z",
+      "date": "2023-12-22",
+      "text": "Fri Dec 22nd 2023",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "cite2c",
+        "total_seconds": 10525,
+        "color": null,
+        "digital": "2:55:25",
+        "decimal": "2.92",
+        "text": "2 hrs 55 mins",
+        "hours": 2,
+        "minutes": 55,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 10525,
+        "digital": "2:55:25",
+        "decimal": "2.92",
+        "text": "2 hrs 55 mins",
+        "hours": 2,
+        "minutes": 55,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 10525,
+        "machine_name_id": "018c9273-7d85-4de2-899c-1a68f7aac462",
+        "digital": "2:55:25",
+        "decimal": "2.92",
+        "text": "2 hrs 55 mins",
+        "hours": 2,
+        "minutes": 55,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Edge",
+        "total_seconds": 10525,
+        "digital": "2:55:25",
+        "decimal": "2.92",
+        "text": "2 hrs 55 mins",
+        "hours": 2,
+        "minutes": 55,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 10525,
+        "digital": "2:55:25",
+        "decimal": "2.92",
+        "text": "2 hrs 55 mins",
+        "hours": 2,
+        "minutes": 55,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 10525,
+        "digital": "2:55:25",
+        "decimal": "2.92",
+        "text": "2 hrs 55 mins",
+        "hours": 2,
+        "minutes": 55,
+        "seconds": 25,
         "percent": 100
       }
     ]
