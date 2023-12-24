@@ -15314,35 +15314,6 @@
     }
   },
   "2023-12-22": {
-    "grand_total": {
-      "hours": 2,
-      "minutes": 55,
-      "total_seconds": 10525,
-      "digital": "2:55",
-      "decimal": "2.92",
-      "text": "2 hrs 55 mins"
-    },
-    "range": {
-      "start": "2023-12-22T03:00:00Z",
-      "end": "2023-12-23T02:59:59Z",
-      "date": "2023-12-22",
-      "text": "Fri Dec 22nd 2023",
-      "timezone": "America/Sao_Paulo"
-    },
-    "projects": [
-      {
-        "name": "cite2c",
-        "total_seconds": 10525,
-        "color": null,
-        "digital": "2:55:25",
-        "decimal": "2.92",
-        "text": "2 hrs 55 mins",
-        "hours": 2,
-        "minutes": 55,
-        "seconds": 25,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -15356,21 +15327,14 @@
         "percent": 100
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "Edge at PopOS",
-        "total_seconds": 10525,
-        "machine_name_id": "018c9273-7d85-4de2-899c-1a68f7aac462",
-        "digital": "2:55:25",
-        "decimal": "2.92",
-        "text": "2 hrs 55 mins",
-        "hours": 2,
-        "minutes": 55,
-        "seconds": 25,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 55,
+      "total_seconds": 10525,
+      "digital": "2:55",
+      "decimal": "2.92",
+      "text": "2 hrs 55 mins"
+    },
     "editors": [
       {
         "name": "Edge",
@@ -15409,6 +15373,66 @@
         "seconds": 25,
         "percent": 100
       }
-    ]
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 10525,
+        "machine_name_id": "018c9273-7d85-4de2-899c-1a68f7aac462",
+        "digital": "2:55:25",
+        "decimal": "2.92",
+        "text": "2 hrs 55 mins",
+        "hours": 2,
+        "minutes": 55,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "cite2c",
+        "total_seconds": 10525,
+        "color": null,
+        "digital": "2:55:25",
+        "decimal": "2.92",
+        "text": "2 hrs 55 mins",
+        "hours": 2,
+        "minutes": 55,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-12-22T03:00:00Z",
+      "end": "2023-12-23T02:59:59Z",
+      "date": "2023-12-22",
+      "text": "Fri Dec 22nd 2023",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2023-12-23": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
+    "range": {
+      "start": "2023-12-23T03:00:00Z",
+      "end": "2023-12-24T02:59:59Z",
+      "date": "2023-12-23",
+      "text": "Sat Dec 23rd 2023",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [],
+    "languages": [],
+    "dependencies": [],
+    "machines": [],
+    "editors": [],
+    "operating_systems": [],
+    "categories": []
   }
 }
