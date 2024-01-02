@@ -16245,5 +16245,103 @@
       "text": "Sun Dec 31st 2023",
       "timezone": "America/Sao_Paulo"
     }
+  },
+  "2024-01-01": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 16,
+      "total_seconds": 990,
+      "digital": "0:16",
+      "decimal": "0.27",
+      "text": "16 mins"
+    },
+    "range": {
+      "start": "2024-01-01T03:00:00Z",
+      "end": "2024-01-02T02:59:59Z",
+      "date": "2024-01-01",
+      "text": "Mon Jan 1st 2024",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "haxm",
+        "total_seconds": 990,
+        "color": null,
+        "digital": "0:16:30",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 990,
+        "digital": "0:16:30",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 990,
+        "machine_name_id": "018cc7b0-f908-4ee4-ab8f-056d997e8c29",
+        "digital": "0:16:30",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Edge",
+        "total_seconds": 990,
+        "digital": "0:16:30",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 990,
+        "digital": "0:16:30",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 990,
+        "digital": "0:16:30",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 30,
+        "percent": 100
+      }
+    ]
   }
 }
