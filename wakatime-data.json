@@ -16441,5 +16441,103 @@
         "percent": 100
       }
     ]
+  },
+  "2024-01-03": {
+    "grand_total": {
+      "hours": 4,
+      "minutes": 58,
+      "total_seconds": 17936,
+      "digital": "4:58",
+      "decimal": "4.97",
+      "text": "4 hrs 58 mins"
+    },
+    "range": {
+      "start": "2024-01-03T03:00:00Z",
+      "end": "2024-01-04T02:59:59Z",
+      "date": "2024-01-03",
+      "text": "Wed Jan 3rd 2024",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "haxm",
+        "total_seconds": 17936,
+        "color": null,
+        "digital": "4:58:56",
+        "decimal": "4.97",
+        "text": "4 hrs 58 mins",
+        "hours": 4,
+        "minutes": 58,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 17936,
+        "digital": "4:58:56",
+        "decimal": "4.97",
+        "text": "4 hrs 58 mins",
+        "hours": 4,
+        "minutes": 58,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 17936,
+        "machine_name_id": "018ccc53-729d-4c72-b170-1ceb5b280ef6",
+        "digital": "4:58:56",
+        "decimal": "4.97",
+        "text": "4 hrs 58 mins",
+        "hours": 4,
+        "minutes": 58,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Edge",
+        "total_seconds": 17936,
+        "digital": "4:58:56",
+        "decimal": "4.97",
+        "text": "4 hrs 58 mins",
+        "hours": 4,
+        "minutes": 58,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 17936,
+        "digital": "4:58:56",
+        "decimal": "4.97",
+        "text": "4 hrs 58 mins",
+        "hours": 4,
+        "minutes": 58,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 17936,
+        "digital": "4:58:56",
+        "decimal": "4.97",
+        "text": "4 hrs 58 mins",
+        "hours": 4,
+        "minutes": 58,
+        "seconds": 56,
+        "percent": 100
+      }
+    ]
   }
 }
