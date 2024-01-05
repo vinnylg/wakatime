@@ -16443,35 +16443,6 @@
     ]
   },
   "2024-01-03": {
-    "grand_total": {
-      "hours": 4,
-      "minutes": 58,
-      "total_seconds": 17936,
-      "digital": "4:58",
-      "decimal": "4.97",
-      "text": "4 hrs 58 mins"
-    },
-    "range": {
-      "start": "2024-01-03T03:00:00Z",
-      "end": "2024-01-04T02:59:59Z",
-      "date": "2024-01-03",
-      "text": "Wed Jan 3rd 2024",
-      "timezone": "America/Sao_Paulo"
-    },
-    "projects": [
-      {
-        "name": "haxm",
-        "total_seconds": 17936,
-        "color": null,
-        "digital": "4:58:56",
-        "decimal": "4.97",
-        "text": "4 hrs 58 mins",
-        "hours": 4,
-        "minutes": 58,
-        "seconds": 56,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -16485,21 +16456,14 @@
         "percent": 100
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "Edge at PopOS",
-        "total_seconds": 17936,
-        "machine_name_id": "018ccc53-729d-4c72-b170-1ceb5b280ef6",
-        "digital": "4:58:56",
-        "decimal": "4.97",
-        "text": "4 hrs 58 mins",
-        "hours": 4,
-        "minutes": 58,
-        "seconds": 56,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 4,
+      "minutes": 58,
+      "total_seconds": 17936,
+      "digital": "4:58",
+      "decimal": "4.97",
+      "text": "4 hrs 58 mins"
+    },
     "editors": [
       {
         "name": "Edge",
@@ -16536,6 +16500,284 @@
         "hours": 4,
         "minutes": 58,
         "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 17936,
+        "machine_name_id": "018ccc53-729d-4c72-b170-1ceb5b280ef6",
+        "digital": "4:58:56",
+        "decimal": "4.97",
+        "text": "4 hrs 58 mins",
+        "hours": 4,
+        "minutes": 58,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "haxm",
+        "total_seconds": 17936,
+        "color": null,
+        "digital": "4:58:56",
+        "decimal": "4.97",
+        "text": "4 hrs 58 mins",
+        "hours": 4,
+        "minutes": 58,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-01-03T03:00:00Z",
+      "end": "2024-01-04T02:59:59Z",
+      "date": "2024-01-03",
+      "text": "Wed Jan 3rd 2024",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2024-01-04": {
+    "grand_total": {
+      "hours": 4,
+      "minutes": 14,
+      "total_seconds": 15293,
+      "digital": "4:14",
+      "decimal": "4.23",
+      "text": "4 hrs 14 mins"
+    },
+    "range": {
+      "start": "2024-01-04T03:00:00Z",
+      "end": "2024-01-05T02:59:59Z",
+      "date": "2024-01-04",
+      "text": "Thu Jan 4th 2024",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "keys",
+        "total_seconds": 10800,
+        "color": null,
+        "digital": "3:00:00",
+        "decimal": "3.00",
+        "text": "3 hrs",
+        "hours": 3,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 70.62
+      },
+      {
+        "name": "haxm",
+        "total_seconds": 3180,
+        "color": null,
+        "digital": "0:53:00",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 0,
+        "percent": 20.79
+      },
+      {
+        "name": "meconsulta",
+        "total_seconds": 261,
+        "color": null,
+        "digital": "0:04:21",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 21,
+        "percent": 1.71
+      },
+      {
+        "name": "oauth",
+        "total_seconds": 250,
+        "color": null,
+        "digital": "0:04:10",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 10,
+        "percent": 1.63
+      },
+      {
+        "name": "ssh",
+        "total_seconds": 235,
+        "color": null,
+        "digital": "0:03:55",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 55,
+        "percent": 1.54
+      },
+      {
+        "name": "meconsulta_app",
+        "total_seconds": 212,
+        "color": null,
+        "digital": "0:03:32",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 32,
+        "percent": 1.39
+      },
+      {
+        "name": "Meconsulta-frontend",
+        "total_seconds": 150,
+        "color": null,
+        "digital": "0:02:30",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 30,
+        "percent": 0.98
+      },
+      {
+        "name": "emails",
+        "total_seconds": 94,
+        "color": null,
+        "digital": "0:01:34",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 34,
+        "percent": 0.61
+      },
+      {
+        "name": "Embriot",
+        "total_seconds": 77,
+        "color": null,
+        "digital": "0:01:17",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 17,
+        "percent": 0.5
+      },
+      {
+        "name": "organizations",
+        "total_seconds": 18,
+        "color": null,
+        "digital": "0:00:18",
+        "decimal": "0.00",
+        "text": "18 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 0.12
+      },
+      {
+        "name": "profile",
+        "total_seconds": 9,
+        "color": null,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.06
+      },
+      {
+        "name": "PowerShell",
+        "total_seconds": 4,
+        "color": null,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.03
+      },
+      {
+        "name": "sessions",
+        "total_seconds": 3,
+        "color": null,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.02
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 15293,
+        "digital": "4:14:53",
+        "decimal": "4.23",
+        "text": "4 hrs 14 mins",
+        "hours": 4,
+        "minutes": 14,
+        "seconds": 53,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 15293,
+        "machine_name_id": "018cd25c-fe14-41d0-ba3a-b1310aab4ea9",
+        "digital": "4:14:53",
+        "decimal": "4.23",
+        "text": "4 hrs 14 mins",
+        "hours": 4,
+        "minutes": 14,
+        "seconds": 53,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Edge",
+        "total_seconds": 15293,
+        "digital": "4:14:53",
+        "decimal": "4.23",
+        "text": "4 hrs 14 mins",
+        "hours": 4,
+        "minutes": 14,
+        "seconds": 53,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 15293,
+        "digital": "4:14:53",
+        "decimal": "4.23",
+        "text": "4 hrs 14 mins",
+        "hours": 4,
+        "minutes": 14,
+        "seconds": 53,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 15293,
+        "digital": "4:14:53",
+        "decimal": "4.23",
+        "text": "4 hrs 14 mins",
+        "hours": 4,
+        "minutes": 14,
+        "seconds": 53,
         "percent": 100
       }
     ]
