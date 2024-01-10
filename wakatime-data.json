@@ -17407,6 +17407,19 @@
     }
   },
   "2024-01-08": {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 20238,
+        "digital": "5:37:18",
+        "decimal": "5.62",
+        "text": "5 hrs 37 mins",
+        "hours": 5,
+        "minutes": 37,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
     "grand_total": {
       "hours": 5,
       "minutes": 37,
@@ -17415,13 +17428,60 @@
       "decimal": "5.62",
       "text": "5 hrs 37 mins"
     },
-    "range": {
-      "start": "2024-01-08T03:00:00Z",
-      "end": "2024-01-09T02:59:59Z",
-      "date": "2024-01-08",
-      "text": "Mon Jan 8th 2024",
-      "timezone": "America/Sao_Paulo"
-    },
+    "editors": [
+      {
+        "name": "Edge",
+        "total_seconds": 20238,
+        "digital": "5:37:18",
+        "decimal": "5.62",
+        "text": "5 hrs 37 mins",
+        "hours": 5,
+        "minutes": 37,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 20238,
+        "digital": "5:37:18",
+        "decimal": "5.62",
+        "text": "5 hrs 37 mins",
+        "hours": 5,
+        "minutes": 37,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 20238,
+        "digital": "5:37:18",
+        "decimal": "5.62",
+        "text": "5 hrs 37 mins",
+        "hours": 5,
+        "minutes": 37,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 20238,
+        "machine_name_id": "018ce8f7-0b7e-45f2-8ac4-b479dfefbfe2",
+        "digital": "5:37:18",
+        "decimal": "5.62",
+        "text": "5 hrs 37 mins",
+        "hours": 5,
+        "minutes": 37,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
     "projects": [
       {
         "name": "oh-my-posh",
@@ -17508,71 +17568,143 @@
         "percent": 0.01
       }
     ],
+    "range": {
+      "start": "2024-01-08T03:00:00Z",
+      "end": "2024-01-09T02:59:59Z",
+      "date": "2024-01-08",
+      "text": "Mon Jan 8th 2024",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2024-01-09": {
+    "grand_total": {
+      "hours": 7,
+      "minutes": 27,
+      "total_seconds": 26863,
+      "digital": "7:27",
+      "decimal": "7.45",
+      "text": "7 hrs 27 mins"
+    },
+    "range": {
+      "start": "2024-01-09T03:00:00Z",
+      "end": "2024-01-10T02:59:59Z",
+      "date": "2024-01-09",
+      "text": "Tue Jan 9th 2024",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "meconsulta_app",
+        "total_seconds": 26757,
+        "color": null,
+        "digital": "7:25:57",
+        "decimal": "7.42",
+        "text": "7 hrs 25 mins",
+        "hours": 7,
+        "minutes": 25,
+        "seconds": 57,
+        "percent": 99.61
+      },
+      {
+        "name": "Basil Icons (Community)",
+        "total_seconds": 106,
+        "color": null,
+        "digital": "0:01:46",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 46,
+        "percent": 0.39
+      }
+    ],
     "languages": [
       {
         "name": "Other",
-        "total_seconds": 20238,
-        "digital": "5:37:18",
-        "decimal": "5.62",
-        "text": "5 hrs 37 mins",
-        "hours": 5,
-        "minutes": 37,
-        "seconds": 18,
-        "percent": 100
+        "total_seconds": 26754,
+        "digital": "7:25:54",
+        "decimal": "7.42",
+        "text": "7 hrs 25 mins",
+        "hours": 7,
+        "minutes": 25,
+        "seconds": 54,
+        "percent": 99.59
+      },
+      {
+        "name": "Figma Design",
+        "total_seconds": 109,
+        "digital": "0:01:49",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 49,
+        "percent": 0.41
       }
     ],
     "dependencies": [],
     "machines": [
       {
         "name": "Edge at PopOS",
-        "total_seconds": 20238,
-        "machine_name_id": "018ce8f7-0b7e-45f2-8ac4-b479dfefbfe2",
-        "digital": "5:37:18",
-        "decimal": "5.62",
-        "text": "5 hrs 37 mins",
-        "hours": 5,
-        "minutes": 37,
-        "seconds": 18,
+        "total_seconds": 26863,
+        "machine_name_id": "018cee5f-b305-41b6-a3a1-16205b630864",
+        "digital": "7:27:43",
+        "decimal": "7.45",
+        "text": "7 hrs 27 mins",
+        "hours": 7,
+        "minutes": 27,
+        "seconds": 43,
         "percent": 100
       }
     ],
     "editors": [
       {
         "name": "Edge",
-        "total_seconds": 20238,
-        "digital": "5:37:18",
-        "decimal": "5.62",
-        "text": "5 hrs 37 mins",
-        "hours": 5,
-        "minutes": 37,
-        "seconds": 18,
+        "total_seconds": 26863,
+        "digital": "7:27:43",
+        "decimal": "7.45",
+        "text": "7 hrs 27 mins",
+        "hours": 7,
+        "minutes": 27,
+        "seconds": 43,
         "percent": 100
       }
     ],
     "operating_systems": [
       {
         "name": "Windows",
-        "total_seconds": 20238,
-        "digital": "5:37:18",
-        "decimal": "5.62",
-        "text": "5 hrs 37 mins",
-        "hours": 5,
-        "minutes": 37,
-        "seconds": 18,
+        "total_seconds": 26863,
+        "digital": "7:27:43",
+        "decimal": "7.45",
+        "text": "7 hrs 27 mins",
+        "hours": 7,
+        "minutes": 27,
+        "seconds": 43,
         "percent": 100
       }
     ],
     "categories": [
       {
         "name": "Browsing",
-        "total_seconds": 20238,
-        "digital": "5:37:18",
-        "decimal": "5.62",
-        "text": "5 hrs 37 mins",
-        "hours": 5,
-        "minutes": 37,
-        "seconds": 18,
-        "percent": 100
+        "total_seconds": 26754,
+        "digital": "7:25:54",
+        "decimal": "7.42",
+        "text": "7 hrs 25 mins",
+        "hours": 7,
+        "minutes": 25,
+        "seconds": 54,
+        "percent": 99.59
+      },
+      {
+        "name": "Designing",
+        "total_seconds": 109,
+        "digital": "0:01:49",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 49,
+        "percent": 0.41
       }
     ]
   }
