@@ -17577,47 +17577,6 @@
     }
   },
   "2024-01-09": {
-    "grand_total": {
-      "hours": 7,
-      "minutes": 27,
-      "total_seconds": 26863,
-      "digital": "7:27",
-      "decimal": "7.45",
-      "text": "7 hrs 27 mins"
-    },
-    "range": {
-      "start": "2024-01-09T03:00:00Z",
-      "end": "2024-01-10T02:59:59Z",
-      "date": "2024-01-09",
-      "text": "Tue Jan 9th 2024",
-      "timezone": "America/Sao_Paulo"
-    },
-    "projects": [
-      {
-        "name": "meconsulta_app",
-        "total_seconds": 26757,
-        "color": null,
-        "digital": "7:25:57",
-        "decimal": "7.42",
-        "text": "7 hrs 25 mins",
-        "hours": 7,
-        "minutes": 25,
-        "seconds": 57,
-        "percent": 99.61
-      },
-      {
-        "name": "Basil Icons (Community)",
-        "total_seconds": 106,
-        "color": null,
-        "digital": "0:01:46",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 46,
-        "percent": 0.39
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -17642,21 +17601,14 @@
         "percent": 0.41
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "Edge at PopOS",
-        "total_seconds": 26863,
-        "machine_name_id": "018cee5f-b305-41b6-a3a1-16205b630864",
-        "digital": "7:27:43",
-        "decimal": "7.45",
-        "text": "7 hrs 27 mins",
-        "hours": 7,
-        "minutes": 27,
-        "seconds": 43,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 7,
+      "minutes": 27,
+      "total_seconds": 26863,
+      "digital": "7:27",
+      "decimal": "7.45",
+      "text": "7 hrs 27 mins"
+    },
     "editors": [
       {
         "name": "Edge",
@@ -17706,6 +17658,78 @@
         "seconds": 49,
         "percent": 0.41
       }
-    ]
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 26863,
+        "machine_name_id": "018cee5f-b305-41b6-a3a1-16205b630864",
+        "digital": "7:27:43",
+        "decimal": "7.45",
+        "text": "7 hrs 27 mins",
+        "hours": 7,
+        "minutes": 27,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "meconsulta_app",
+        "total_seconds": 26757,
+        "color": null,
+        "digital": "7:25:57",
+        "decimal": "7.42",
+        "text": "7 hrs 25 mins",
+        "hours": 7,
+        "minutes": 25,
+        "seconds": 57,
+        "percent": 99.61
+      },
+      {
+        "name": "Basil Icons (Community)",
+        "total_seconds": 106,
+        "color": null,
+        "digital": "0:01:46",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 46,
+        "percent": 0.39
+      }
+    ],
+    "range": {
+      "start": "2024-01-09T03:00:00Z",
+      "end": "2024-01-10T02:59:59Z",
+      "date": "2024-01-09",
+      "text": "Tue Jan 9th 2024",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2024-01-10": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
+    "range": {
+      "start": "2024-01-10T03:00:00Z",
+      "end": "2024-01-11T02:59:59Z",
+      "date": "2024-01-10",
+      "text": "Wed Jan 10th 2024",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [],
+    "languages": [],
+    "dependencies": [],
+    "machines": [],
+    "editors": [],
+    "operating_systems": [],
+    "categories": []
   }
 }
