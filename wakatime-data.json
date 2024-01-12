@@ -17709,6 +17709,7 @@
     }
   },
   "2024-01-10": {
+    "languages": [],
     "grand_total": {
       "hours": 0,
       "minutes": 0,
@@ -17717,19 +17718,236 @@
       "decimal": "0.00",
       "text": "0 secs"
     },
+    "editors": [],
+    "operating_systems": [],
+    "categories": [],
+    "dependencies": [],
+    "machines": [],
+    "projects": [],
     "range": {
       "start": "2024-01-10T03:00:00Z",
       "end": "2024-01-11T02:59:59Z",
       "date": "2024-01-10",
       "text": "Wed Jan 10th 2024",
       "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2024-01-11": {
+    "grand_total": {
+      "hours": 8,
+      "minutes": 10,
+      "total_seconds": 29409,
+      "digital": "8:10",
+      "decimal": "8.17",
+      "text": "8 hrs 10 mins"
     },
-    "projects": [],
-    "languages": [],
+    "range": {
+      "start": "2024-01-11T03:00:00Z",
+      "end": "2024-01-12T02:59:59Z",
+      "date": "2024-01-11",
+      "text": "Thu Jan 11th 2024",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "fastapi-todo-ddd",
+        "total_seconds": 10793,
+        "color": null,
+        "digital": "2:59:53",
+        "decimal": "2.98",
+        "text": "2 hrs 59 mins",
+        "hours": 2,
+        "minutes": 59,
+        "seconds": 53,
+        "percent": 36.7
+      },
+      {
+        "name": "meconsulta_app",
+        "total_seconds": 9203,
+        "color": null,
+        "digital": "2:33:23",
+        "decimal": "2.55",
+        "text": "2 hrs 33 mins",
+        "hours": 2,
+        "minutes": 33,
+        "seconds": 23,
+        "percent": 31.29
+      },
+      {
+        "name": "parabeac_core?utm_source=article&utm_medium=link_in_text&utm_campaign=color_style_to_core",
+        "total_seconds": 8693,
+        "color": null,
+        "digital": "2:24:53",
+        "decimal": "2.40",
+        "text": "2 hrs 24 mins",
+        "hours": 2,
+        "minutes": 24,
+        "seconds": 53,
+        "percent": 29.56
+      },
+      {
+        "name": "fastapi-ddd-example",
+        "total_seconds": 364,
+        "color": null,
+        "digital": "0:06:04",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 4,
+        "percent": 1.24
+      },
+      {
+        "name": "PowerShell",
+        "total_seconds": 158,
+        "color": null,
+        "digital": "0:02:38",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 38,
+        "percent": 0.54
+      },
+      {
+        "name": "teste",
+        "total_seconds": 141,
+        "color": null,
+        "digital": "0:02:21",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 21,
+        "percent": 0.48
+      },
+      {
+        "name": "organizations",
+        "total_seconds": 28,
+        "color": null,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 0.1
+      },
+      {
+        "name": "Embriot",
+        "total_seconds": 17,
+        "color": null,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 0.06
+      },
+      {
+        "name": "fastapi-ddd-example?tab=readme-ov-file",
+        "total_seconds": 9,
+        "color": null,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.03
+      },
+      {
+        "name": "meconsulta",
+        "total_seconds": 2,
+        "color": null,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.01
+      },
+      {
+        "name": "teste?tab=readme-ov-file",
+        "total_seconds": 1,
+        "color": null,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 29409,
+        "digital": "8:10:09",
+        "decimal": "8.17",
+        "text": "8 hrs 10 mins",
+        "hours": 8,
+        "minutes": 10,
+        "seconds": 9,
+        "percent": 100
+      }
+    ],
     "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 29409,
+        "machine_name_id": "018cf8d0-7c39-4ede-83da-472b4526dc63",
+        "digital": "8:10:09",
+        "decimal": "8.17",
+        "text": "8 hrs 10 mins",
+        "hours": 8,
+        "minutes": 10,
+        "seconds": 9,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Edge",
+        "total_seconds": 29409,
+        "digital": "8:10:09",
+        "decimal": "8.17",
+        "text": "8 hrs 10 mins",
+        "hours": 8,
+        "minutes": 10,
+        "seconds": 9,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 29409,
+        "digital": "8:10:09",
+        "decimal": "8.17",
+        "text": "8 hrs 10 mins",
+        "hours": 8,
+        "minutes": 10,
+        "seconds": 9,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 29409,
+        "digital": "8:10:09",
+        "decimal": "8.17",
+        "text": "8 hrs 10 mins",
+        "hours": 8,
+        "minutes": 10,
+        "seconds": 9,
+        "percent": 100
+      }
+    ]
   }
 }
