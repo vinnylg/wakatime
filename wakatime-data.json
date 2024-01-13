@@ -17733,6 +17733,19 @@
     }
   },
   "2024-01-11": {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 29409,
+        "digital": "8:10:09",
+        "decimal": "8.17",
+        "text": "8 hrs 10 mins",
+        "hours": 8,
+        "minutes": 10,
+        "seconds": 9,
+        "percent": 100
+      }
+    ],
     "grand_total": {
       "hours": 8,
       "minutes": 10,
@@ -17741,13 +17754,60 @@
       "decimal": "8.17",
       "text": "8 hrs 10 mins"
     },
-    "range": {
-      "start": "2024-01-11T03:00:00Z",
-      "end": "2024-01-12T02:59:59Z",
-      "date": "2024-01-11",
-      "text": "Thu Jan 11th 2024",
-      "timezone": "America/Sao_Paulo"
-    },
+    "editors": [
+      {
+        "name": "Edge",
+        "total_seconds": 29409,
+        "digital": "8:10:09",
+        "decimal": "8.17",
+        "text": "8 hrs 10 mins",
+        "hours": 8,
+        "minutes": 10,
+        "seconds": 9,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 29409,
+        "digital": "8:10:09",
+        "decimal": "8.17",
+        "text": "8 hrs 10 mins",
+        "hours": 8,
+        "minutes": 10,
+        "seconds": 9,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 29409,
+        "digital": "8:10:09",
+        "decimal": "8.17",
+        "text": "8 hrs 10 mins",
+        "hours": 8,
+        "minutes": 10,
+        "seconds": 9,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Edge at PopOS",
+        "total_seconds": 29409,
+        "machine_name_id": "018cf8d0-7c39-4ede-83da-472b4526dc63",
+        "digital": "8:10:09",
+        "decimal": "8.17",
+        "text": "8 hrs 10 mins",
+        "hours": 8,
+        "minutes": 10,
+        "seconds": 9,
+        "percent": 100
+      }
+    ],
     "projects": [
       {
         "name": "fastapi-todo-ddd",
@@ -17882,16 +17942,102 @@
         "percent": 0
       }
     ],
+    "range": {
+      "start": "2024-01-11T03:00:00Z",
+      "end": "2024-01-12T02:59:59Z",
+      "date": "2024-01-11",
+      "text": "Thu Jan 11th 2024",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2024-01-12": {
+    "grand_total": {
+      "hours": 2,
+      "minutes": 53,
+      "total_seconds": 10430,
+      "digital": "2:53",
+      "decimal": "2.88",
+      "text": "2 hrs 53 mins"
+    },
+    "range": {
+      "start": "2024-01-12T03:00:00Z",
+      "end": "2024-01-13T02:59:59Z",
+      "date": "2024-01-12",
+      "text": "Fri Jan 12th 2024",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "parabeac_core?utm_source=article&utm_medium=link_in_text&utm_campaign=color_style_to_core",
+        "total_seconds": 9633,
+        "color": null,
+        "digital": "2:40:33",
+        "decimal": "2.67",
+        "text": "2 hrs 40 mins",
+        "hours": 2,
+        "minutes": 40,
+        "seconds": 33,
+        "percent": 92.36
+      },
+      {
+        "name": "fastapi-todo-ddd",
+        "total_seconds": 663,
+        "color": null,
+        "digital": "0:11:03",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 3,
+        "percent": 6.36
+      },
+      {
+        "name": "meconsulta_app",
+        "total_seconds": 121,
+        "color": null,
+        "digital": "0:02:01",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 1,
+        "percent": 1.16
+      },
+      {
+        "name": "Embriot",
+        "total_seconds": 11,
+        "color": null,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.11
+      },
+      {
+        "name": "organizations",
+        "total_seconds": 2,
+        "color": null,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.02
+      }
+    ],
     "languages": [
       {
         "name": "Other",
-        "total_seconds": 29409,
-        "digital": "8:10:09",
-        "decimal": "8.17",
-        "text": "8 hrs 10 mins",
-        "hours": 8,
-        "minutes": 10,
-        "seconds": 9,
+        "total_seconds": 10430,
+        "digital": "2:53:50",
+        "decimal": "2.88",
+        "text": "2 hrs 53 mins",
+        "hours": 2,
+        "minutes": 53,
+        "seconds": 50,
         "percent": 100
       }
     ],
@@ -17899,53 +18045,53 @@
     "machines": [
       {
         "name": "Edge at PopOS",
-        "total_seconds": 29409,
-        "machine_name_id": "018cf8d0-7c39-4ede-83da-472b4526dc63",
-        "digital": "8:10:09",
-        "decimal": "8.17",
-        "text": "8 hrs 10 mins",
-        "hours": 8,
-        "minutes": 10,
-        "seconds": 9,
+        "total_seconds": 10430,
+        "machine_name_id": "018cfe3f-1563-4664-a029-b8d686529df2",
+        "digital": "2:53:50",
+        "decimal": "2.88",
+        "text": "2 hrs 53 mins",
+        "hours": 2,
+        "minutes": 53,
+        "seconds": 50,
         "percent": 100
       }
     ],
     "editors": [
       {
         "name": "Edge",
-        "total_seconds": 29409,
-        "digital": "8:10:09",
-        "decimal": "8.17",
-        "text": "8 hrs 10 mins",
-        "hours": 8,
-        "minutes": 10,
-        "seconds": 9,
+        "total_seconds": 10430,
+        "digital": "2:53:50",
+        "decimal": "2.88",
+        "text": "2 hrs 53 mins",
+        "hours": 2,
+        "minutes": 53,
+        "seconds": 50,
         "percent": 100
       }
     ],
     "operating_systems": [
       {
         "name": "Windows",
-        "total_seconds": 29409,
-        "digital": "8:10:09",
-        "decimal": "8.17",
-        "text": "8 hrs 10 mins",
-        "hours": 8,
-        "minutes": 10,
-        "seconds": 9,
+        "total_seconds": 10430,
+        "digital": "2:53:50",
+        "decimal": "2.88",
+        "text": "2 hrs 53 mins",
+        "hours": 2,
+        "minutes": 53,
+        "seconds": 50,
         "percent": 100
       }
     ],
     "categories": [
       {
         "name": "Browsing",
-        "total_seconds": 29409,
-        "digital": "8:10:09",
-        "decimal": "8.17",
-        "text": "8 hrs 10 mins",
-        "hours": 8,
-        "minutes": 10,
-        "seconds": 9,
+        "total_seconds": 10430,
+        "digital": "2:53:50",
+        "decimal": "2.88",
+        "text": "2 hrs 53 mins",
+        "hours": 2,
+        "minutes": 53,
+        "seconds": 50,
         "percent": 100
       }
     ]
