@@ -18844,35 +18844,6 @@
     }
   },
   "2024-01-30": {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 7,
-      "total_seconds": 431,
-      "digital": "0:07",
-      "decimal": "0.12",
-      "text": "7 mins"
-    },
-    "range": {
-      "start": "2024-01-30T03:00:00Z",
-      "end": "2024-01-31T02:59:59Z",
-      "date": "2024-01-30",
-      "text": "Tue Jan 30th 2024",
-      "timezone": "America/Sao_Paulo"
-    },
-    "projects": [
-      {
-        "name": "fastapi-todo-ddd",
-        "total_seconds": 431,
-        "color": null,
-        "digital": "0:07:11",
-        "decimal": "0.12",
-        "text": "7 mins",
-        "hours": 0,
-        "minutes": 7,
-        "seconds": 11,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -18886,21 +18857,14 @@
         "percent": 100
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "Chrome ( Pessoal ) at PopOS",
-        "total_seconds": 431,
-        "machine_name_id": "018d5c2c-be59-4d8f-8cfa-a6f68a6eeb7b",
-        "digital": "0:07:11",
-        "decimal": "0.12",
-        "text": "7 mins",
-        "hours": 0,
-        "minutes": 7,
-        "seconds": 11,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 7,
+      "total_seconds": 431,
+      "digital": "0:07",
+      "decimal": "0.12",
+      "text": "7 mins"
+    },
     "editors": [
       {
         "name": "Chrome",
@@ -18939,6 +18903,66 @@
         "seconds": 11,
         "percent": 100
       }
-    ]
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Chrome ( Pessoal ) at PopOS",
+        "total_seconds": 431,
+        "machine_name_id": "018d5c2c-be59-4d8f-8cfa-a6f68a6eeb7b",
+        "digital": "0:07:11",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "fastapi-todo-ddd",
+        "total_seconds": 431,
+        "color": null,
+        "digital": "0:07:11",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-01-30T03:00:00Z",
+      "end": "2024-01-31T02:59:59Z",
+      "date": "2024-01-30",
+      "text": "Tue Jan 30th 2024",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2024-01-31": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
+    "range": {
+      "start": "2024-01-31T03:00:00Z",
+      "end": "2024-02-01T02:59:59Z",
+      "date": "2024-01-31",
+      "text": "Wed Jan 31st 2024",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [],
+    "languages": [],
+    "dependencies": [],
+    "machines": [],
+    "editors": [],
+    "operating_systems": [],
+    "categories": []
   }
 }
