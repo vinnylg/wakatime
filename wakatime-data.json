@@ -19810,35 +19810,6 @@
     }
   },
   "2024-03-01": {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 1,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
-    },
-    "range": {
-      "start": "2024-03-01T03:00:00Z",
-      "end": "2024-03-02T02:59:59Z",
-      "date": "2024-03-01",
-      "text": "Fri Mar 1st 2024",
-      "timezone": "America/Sao_Paulo"
-    },
-    "projects": [
-      {
-        "name": "fastapi-todo-ddd",
-        "total_seconds": 1,
-        "color": null,
-        "digital": "0:00:01",
-        "decimal": "0.00",
-        "text": "1 sec",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 1,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -19852,21 +19823,14 @@
         "percent": 100
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "Chrome ( Pessoal ) at PopOS",
-        "total_seconds": 1,
-        "machine_name_id": "018dfb96-0fac-4c9f-a1cf-3d7f1506243c",
-        "digital": "0:00:01",
-        "decimal": "0.00",
-        "text": "1 sec",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 1,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 1,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
     "editors": [
       {
         "name": "Chrome",
@@ -19905,6 +19869,66 @@
         "seconds": 1,
         "percent": 100
       }
-    ]
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Chrome ( Pessoal ) at PopOS",
+        "total_seconds": 1,
+        "machine_name_id": "018dfb96-0fac-4c9f-a1cf-3d7f1506243c",
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "fastapi-todo-ddd",
+        "total_seconds": 1,
+        "color": null,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-03-01T03:00:00Z",
+      "end": "2024-03-02T02:59:59Z",
+      "date": "2024-03-01",
+      "text": "Fri Mar 1st 2024",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2024-03-02": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
+    "range": {
+      "start": "2024-03-02T03:00:00Z",
+      "end": "2024-03-03T02:59:59Z",
+      "date": "2024-03-02",
+      "text": "Sat Mar 2nd 2024",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [],
+    "languages": [],
+    "dependencies": [],
+    "machines": [],
+    "editors": [],
+    "operating_systems": [],
+    "categories": []
   }
 }
