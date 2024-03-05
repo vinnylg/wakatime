@@ -19932,35 +19932,6 @@
     }
   },
   "2024-03-03": {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 1,
-      "total_seconds": 109,
-      "digital": "0:01",
-      "decimal": "0.02",
-      "text": "1 min"
-    },
-    "range": {
-      "start": "2024-03-03T03:00:00Z",
-      "end": "2024-03-04T02:59:59Z",
-      "date": "2024-03-03",
-      "text": "Sun Mar 3rd 2024",
-      "timezone": "America/Sao_Paulo"
-    },
-    "projects": [
-      {
-        "name": "fastapi-todo-ddd",
-        "total_seconds": 109,
-        "color": null,
-        "digital": "0:01:49",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 49,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -19974,21 +19945,14 @@
         "percent": 100
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "Chrome ( Pessoal ) at PopOS",
-        "total_seconds": 109,
-        "machine_name_id": "018e06ea-81bd-4ec9-b8a2-6db16ee93195",
-        "digital": "0:01:49",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 49,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 1,
+      "total_seconds": 109,
+      "digital": "0:01",
+      "decimal": "0.02",
+      "text": "1 min"
+    },
     "editors": [
       {
         "name": "Chrome",
@@ -20025,6 +19989,140 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Chrome ( Pessoal ) at PopOS",
+        "total_seconds": 109,
+        "machine_name_id": "018e06ea-81bd-4ec9-b8a2-6db16ee93195",
+        "digital": "0:01:49",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "fastapi-todo-ddd",
+        "total_seconds": 109,
+        "color": null,
+        "digital": "0:01:49",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-03-03T03:00:00Z",
+      "end": "2024-03-04T02:59:59Z",
+      "date": "2024-03-03",
+      "text": "Sun Mar 3rd 2024",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2024-03-04": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 30,
+      "total_seconds": 1859,
+      "digital": "0:30",
+      "decimal": "0.50",
+      "text": "30 mins"
+    },
+    "range": {
+      "start": "2024-03-04T03:00:00Z",
+      "end": "2024-03-05T02:59:59Z",
+      "date": "2024-03-04",
+      "text": "Mon Mar 4th 2024",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "fastapi-todo-ddd",
+        "total_seconds": 1859,
+        "color": null,
+        "digital": "0:30:59",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 1859,
+        "digital": "0:30:59",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Chrome ( Pessoal ) at PopOS",
+        "total_seconds": 1859,
+        "machine_name_id": "018e0a8a-8982-4c5a-8779-3f0198908ce7",
+        "digital": "0:30:59",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 1859,
+        "digital": "0:30:59",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1859,
+        "digital": "0:30:59",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 1859,
+        "digital": "0:30:59",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 59,
         "percent": 100
       }
     ]
