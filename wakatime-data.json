@@ -20250,6 +20250,30 @@
     }
   },
   "2024-03-07": {
+    "languages": [],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
+    "editors": [],
+    "operating_systems": [],
+    "categories": [],
+    "dependencies": [],
+    "machines": [],
+    "projects": [],
+    "range": {
+      "start": "2024-03-07T03:00:00Z",
+      "end": "2024-03-08T02:59:59Z",
+      "date": "2024-03-07",
+      "text": "Thu Mar 7th 2024",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2024-03-08": {
     "grand_total": {
       "hours": 0,
       "minutes": 0,
@@ -20259,10 +20283,10 @@
       "text": "0 secs"
     },
     "range": {
-      "start": "2024-03-07T03:00:00Z",
-      "end": "2024-03-08T02:59:59Z",
-      "date": "2024-03-07",
-      "text": "Thu Mar 7th 2024",
+      "start": "2024-03-08T03:00:00Z",
+      "end": "2024-03-09T02:59:59Z",
+      "date": "2024-03-08",
+      "text": "Fri Mar 8th 2024",
       "timezone": "America/Sao_Paulo"
     },
     "projects": [],
