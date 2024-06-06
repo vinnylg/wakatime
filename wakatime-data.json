@@ -22386,6 +22386,7 @@
     }
   },
   "2024-06-04": {
+    "languages": [],
     "grand_total": {
       "hours": 0,
       "minutes": 0,
@@ -22394,19 +22395,140 @@
       "decimal": "0.00",
       "text": "0 secs"
     },
+    "editors": [],
+    "operating_systems": [],
+    "categories": [],
+    "dependencies": [],
+    "machines": [],
+    "projects": [],
     "range": {
       "start": "2024-06-04T03:00:00Z",
       "end": "2024-06-05T02:59:59Z",
       "date": "2024-06-04",
       "text": "Tue Jun 4th 2024",
       "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2024-06-05": {
+    "grand_total": {
+      "hours": 2,
+      "minutes": 27,
+      "total_seconds": 8857,
+      "digital": "2:27",
+      "decimal": "2.45",
+      "text": "2 hrs 27 mins"
     },
-    "projects": [],
-    "languages": [],
+    "range": {
+      "start": "2024-06-05T03:00:00Z",
+      "end": "2024-06-06T02:59:59Z",
+      "date": "2024-06-05",
+      "text": "Wed Jun 5th 2024",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "fastapi-todo-ddd",
+        "total_seconds": 5314,
+        "color": null,
+        "digital": "1:28:34",
+        "decimal": "1.47",
+        "text": "1 hr 28 mins",
+        "hours": 1,
+        "minutes": 28,
+        "seconds": 34,
+        "percent": 60
+      },
+      {
+        "name": "cloud-foundations-templates",
+        "total_seconds": 3535,
+        "color": null,
+        "digital": "0:58:55",
+        "decimal": "0.97",
+        "text": "58 mins",
+        "hours": 0,
+        "minutes": 58,
+        "seconds": 55,
+        "percent": 39.91
+      },
+      {
+        "name": "aws-vault",
+        "total_seconds": 8,
+        "color": null,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.09
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 8857,
+        "digital": "2:27:37",
+        "decimal": "2.45",
+        "text": "2 hrs 27 mins",
+        "hours": 2,
+        "minutes": 27,
+        "seconds": 37,
+        "percent": 100
+      }
+    ],
     "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    "machines": [
+      {
+        "name": "Chrome ( Pessoal ) at PopOS",
+        "total_seconds": 8857,
+        "machine_name_id": "c7515f79-da65-423e-a879-526978cadeb1",
+        "digital": "2:27:37",
+        "decimal": "2.45",
+        "text": "2 hrs 27 mins",
+        "hours": 2,
+        "minutes": 27,
+        "seconds": 37,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 8857,
+        "digital": "2:27:37",
+        "decimal": "2.45",
+        "text": "2 hrs 27 mins",
+        "hours": 2,
+        "minutes": 27,
+        "seconds": 37,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 8857,
+        "digital": "2:27:37",
+        "decimal": "2.45",
+        "text": "2 hrs 27 mins",
+        "hours": 2,
+        "minutes": 27,
+        "seconds": 37,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 8857,
+        "digital": "2:27:37",
+        "decimal": "2.45",
+        "text": "2 hrs 27 mins",
+        "hours": 2,
+        "minutes": 27,
+        "seconds": 37,
+        "percent": 100
+      }
+    ]
   }
 }
