@@ -22844,6 +22844,7 @@
     }
   },
   "2024-06-19": {
+    "languages": [],
     "grand_total": {
       "hours": 0,
       "minutes": 0,
@@ -22852,19 +22853,116 @@
       "decimal": "0.00",
       "text": "0 secs"
     },
+    "editors": [],
+    "operating_systems": [],
+    "categories": [],
+    "dependencies": [],
+    "machines": [],
+    "projects": [],
     "range": {
       "start": "2024-06-19T03:00:00Z",
       "end": "2024-06-20T02:59:59Z",
       "date": "2024-06-19",
       "text": "Wed Jun 19th 2024",
       "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2024-06-20": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 38,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
     },
-    "projects": [],
-    "languages": [],
+    "range": {
+      "start": "2024-06-20T03:00:00Z",
+      "end": "2024-06-21T02:59:59Z",
+      "date": "2024-06-20",
+      "text": "Thu Jun 20th 2024",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [
+      {
+        "name": "cloud-foundations-templates",
+        "total_seconds": 38,
+        "color": null,
+        "digital": "0:00:38",
+        "decimal": "0.00",
+        "text": "38 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 38,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 38,
+        "digital": "0:00:38",
+        "decimal": "0.00",
+        "text": "38 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 38,
+        "percent": 100
+      }
+    ],
     "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    "machines": [
+      {
+        "name": "Chrome ( Pessoal ) at PopOS",
+        "total_seconds": 38,
+        "machine_name_id": "11b9a043-99f5-4481-9033-7e91ebafb1a9",
+        "digital": "0:00:38",
+        "decimal": "0.00",
+        "text": "38 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 38,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 38,
+        "digital": "0:00:38",
+        "decimal": "0.00",
+        "text": "38 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 38,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 38,
+        "digital": "0:00:38",
+        "decimal": "0.00",
+        "text": "38 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 38,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 38,
+        "digital": "0:00:38",
+        "decimal": "0.00",
+        "text": "38 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 38,
+        "percent": 100
+      }
+    ]
   }
 }
