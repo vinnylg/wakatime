@@ -22966,35 +22966,6 @@
     }
   },
   "2024-06-21": {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 6,
-      "total_seconds": 380,
-      "digital": "0:06",
-      "decimal": "0.10",
-      "text": "6 mins"
-    },
-    "range": {
-      "start": "2024-06-21T03:00:00Z",
-      "end": "2024-06-22T02:59:59Z",
-      "date": "2024-06-21",
-      "text": "Fri Jun 21st 2024",
-      "timezone": "America/Sao_Paulo"
-    },
-    "projects": [
-      {
-        "name": "cloud-foundations-templates",
-        "total_seconds": 380,
-        "color": null,
-        "digital": "0:06:20",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 20,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -23008,21 +22979,14 @@
         "percent": 100
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "Chrome ( Pessoal ) at PopOS",
-        "total_seconds": 380,
-        "machine_name_id": "6b8f9499-7df7-4026-bde5-686cf490d5a1",
-        "digital": "0:06:20",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 20,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 6,
+      "total_seconds": 380,
+      "digital": "0:06",
+      "decimal": "0.10",
+      "text": "6 mins"
+    },
     "editors": [
       {
         "name": "Chrome",
@@ -23061,6 +23025,66 @@
         "seconds": 20,
         "percent": 100
       }
-    ]
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Chrome ( Pessoal ) at PopOS",
+        "total_seconds": 380,
+        "machine_name_id": "6b8f9499-7df7-4026-bde5-686cf490d5a1",
+        "digital": "0:06:20",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 20,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "cloud-foundations-templates",
+        "total_seconds": 380,
+        "color": null,
+        "digital": "0:06:20",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 20,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-06-21T03:00:00Z",
+      "end": "2024-06-22T02:59:59Z",
+      "date": "2024-06-21",
+      "text": "Fri Jun 21st 2024",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2024-06-22": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
+    "range": {
+      "start": "2024-06-22T03:00:00Z",
+      "end": "2024-06-23T02:59:59Z",
+      "date": "2024-06-22",
+      "text": "Sat Jun 22nd 2024",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [],
+    "languages": [],
+    "dependencies": [],
+    "machines": [],
+    "editors": [],
+    "operating_systems": [],
+    "categories": []
   }
 }
