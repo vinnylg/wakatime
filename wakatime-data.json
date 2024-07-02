@@ -23330,35 +23330,6 @@
     }
   },
   "2024-06-30": {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
-    },
-    "range": {
-      "start": "2024-06-30T03:00:00Z",
-      "end": "2024-07-01T02:59:59Z",
-      "date": "2024-06-30",
-      "text": "Sun Jun 30th 2024",
-      "timezone": "America/Sao_Paulo"
-    },
-    "projects": [
-      {
-        "name": "cloud-foundations-templates",
-        "total_seconds": 0,
-        "color": null,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -23372,21 +23343,14 @@
         "percent": 0
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "Chrome ( Pessoal ) at PopOS",
-        "total_seconds": 0,
-        "machine_name_id": "71d711ba-8df0-462d-b95c-5c8e045f616a",
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
     "editors": [
       {
         "name": "Chrome",
@@ -23425,6 +23389,66 @@
         "seconds": 0,
         "percent": 0
       }
-    ]
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Chrome ( Pessoal ) at PopOS",
+        "total_seconds": 0,
+        "machine_name_id": "71d711ba-8df0-462d-b95c-5c8e045f616a",
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "projects": [
+      {
+        "name": "cloud-foundations-templates",
+        "total_seconds": 0,
+        "color": null,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "range": {
+      "start": "2024-06-30T03:00:00Z",
+      "end": "2024-07-01T02:59:59Z",
+      "date": "2024-06-30",
+      "text": "Sun Jun 30th 2024",
+      "timezone": "America/Sao_Paulo"
+    }
+  },
+  "2024-07-01": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
+    "range": {
+      "start": "2024-07-01T03:00:00Z",
+      "end": "2024-07-02T02:59:59Z",
+      "date": "2024-07-01",
+      "text": "Mon Jul 1st 2024",
+      "timezone": "America/Sao_Paulo"
+    },
+    "projects": [],
+    "languages": [],
+    "dependencies": [],
+    "machines": [],
+    "editors": [],
+    "operating_systems": [],
+    "categories": []
   }
 }
